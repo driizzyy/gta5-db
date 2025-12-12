@@ -1,0 +1,180 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_AIRFILTER": [
+        4,
+        0
+    ],
+    "MOD_ARCHCOVER": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_DASHBOARD": [
+        -1,
+        0
+    ],
+    "MOD_DIALDESIGN": [
+        0,
+        0
+    ],
+    "MOD_DOORSPEAKERS": [
+        -1,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_ENGINEBLOCK": [
+        4,
+        0
+    ],
+    "MOD_EXHAUST": [
+        10,
+        0
+    ],
+    "MOD_FENDER": [
+        0,
+        0
+    ],
+    "MOD_FRAME": [
+        -1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        5,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        10,
+        0
+    ],
+    "MOD_GRILLE": [
+        -1,
+        0
+    ],
+    "MOD_HOOD": [
+        3,
+        0
+    ],
+    "MOD_HORNS": [
+        -1,
+        0
+    ],
+    "MOD_LIVERY": [
+        -1,
+        0
+    ],
+    "MOD_ORNAMENTS": [
+        0,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        3,
+        0
+    ],
+    "MOD_RIGHTFENDER": [
+        4,
+        0
+    ],
+    "MOD_ROOF": [
+        3,
+        0
+    ],
+    "MOD_SEATS": [
+        -1,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        2,
+        0
+    ],
+    "MOD_SPOILERS": [
+        7,
+        0
+    ],
+    "MOD_STEERINGWHEELS": [
+        -1,
+        0
+    ],
+    "MOD_STRUTS": [
+        5,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TANK": [
+        -1,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TRIM": [
+        -1,
+        0
+    ],
+    "MOD_TRIMDESIGN": [
+        -1,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_VANITYPLATES": [
+        -1,
+        0
+    ],
+    "custom_primary_color": [
+        5,
+        27,
+        63
+    ],
+    "custom_secondary_color": [
+        5,
+        27,
+        63
+    ],
+    "dash_color": 111,
+    "drift_tires": 0,
+    "interior_color": 2,
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 140,
+    "plate_text": "AT A SUP",
+    "plate_text_index": 0,
+    "primary_color": 37,
+    "secondary_color": 0,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        0,
+        0,
+        0
+    ],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 2712905841,
+    "vehicle_window_tint": 3,
+    "wheel_color": 156,
+    "wheel_type": 10
+}

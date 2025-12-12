@@ -1,0 +1,41 @@
+Model: FORMULA
+Plate Style: 0
+Plate Text:  LWYUP  
+Primary Colour: 218
+Secondary Colour: 131
+Pearl Colour: 218
+Wheel Colour: 0
+Wheel Type: 8
+Engine: 3
+Brakes: 3
+Transmission: 3
+Horns: 25
+Suspension: -1
+Armor: -1
+Turbo: Yes
+Tiresmoke: Yes
+Headlights: -1
+Front Wheels: 103
+Livery: -1
+Tyre Smoke Colour: #FFFFFF
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #D9D9D9
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Neon Colour: #FF00FF
+Interior Colour: 8
+Dashboard Colour: 0
+Extra 1: Yes
+Extra 2: Yes
+Extra 3: Yes
+Extra 4: Yes
+Extra 5: Yes
+Extra 6: Yes
+Extra 7: Yes
+Extra 8: Yes
+Unk17: Yes
+Unk19: Yes
+Unk21: Yes

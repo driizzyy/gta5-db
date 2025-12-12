@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Aberain.Lua",
+        "description": "Aberain.lua for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/Aberain.lua.txt"
+    },
+    {
+        "name": "BIGJB LUA",
+        "description": "BIGJB_LUA for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/BIGJB_LUA.lua"
+    },
+    {
+        "name": "Car Saver",
+        "description": "Car Saver for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/Car Saver.lua"
+    },
+    {
+        "name": "Cash",
+        "description": "Cash for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/Cash.lua"
+    },
+    {
+        "name": "Cashdropperv2",
+        "description": "cashdropperv2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/cashdropperv2.lua"
+    },
+    {
+        "name": "ECola",
+        "description": "eCola for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/eCola.lua"
+    },
+    {
+        "name": "Message",
+        "description": "message for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/message.txt"
+    },
+    {
+        "name": "Money Gun",
+        "description": "Money Gun for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/Money Gun.lua"
+    },
+    {
+        "name": "Putinsidenenyoolua",
+        "description": "putinsidenenyoolua for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/putinsidenenyoolua.lua"
+    },
+    {
+        "name": "Rp Dropper",
+        "description": "rp_dropper for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/rp_dropper.lua"
+    },
+    {
+        "name": "Set Level.Lua",
+        "description": "set_level.lua for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/set_level.lua.txt"
+    },
+    {
+        "name": " G~JackPot",
+        "description": "_g~JackPot for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/_g~JackPot.lua"
+    },
+    {
+        "name": " R~Infamous",
+        "description": "_r~Infamous for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/lua-scripts/_r~Infamous.lua"
+    }
+]

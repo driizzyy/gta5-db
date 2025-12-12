@@ -1,0 +1,89 @@
+{
+    "Hash": 1885233650,
+    "Outfits": [
+        {
+            "Componet": 0,
+            "Texture": 12,
+            "Varient": 0
+        },
+        {
+            "Componet": 1,
+            "Texture": 174,
+            "Varient": 23
+        },
+        {
+            "Componet": 2,
+            "Texture": 80,
+            "Varient": 0
+        },
+        {
+            "Componet": 3,
+            "Texture": 174,
+            "Varient": 3
+        },
+        {
+            "Componet": 4,
+            "Texture": 130,
+            "Varient": 4
+        },
+        {
+            "Componet": 5,
+            "Texture": 82,
+            "Varient": 16
+        },
+        {
+            "Componet": 6,
+            "Texture": 72,
+            "Varient": 9
+        },
+        {
+            "Componet": 7,
+            "Texture": 0,
+            "Varient": 0
+        },
+        {
+            "Componet": 8,
+            "Texture": 170,
+            "Varient": 3
+        },
+        {
+            "Componet": 9,
+            "Texture": 0,
+            "Varient": 0
+        },
+        {
+            "Componet": 10,
+            "Texture": 0,
+            "Varient": 0
+        },
+        {
+            "Componet": 11,
+            "Texture": 336,
+            "Varient": 5
+        }
+    ],
+    "Props": [
+        {
+            "Componet": 0,
+            "Texture": 123,
+            "Varient": 1
+        },
+        {
+            "Componet": 1,
+            "Texture": -1,
+            "Varient": -1
+        },
+        {
+            "Componet": 2,
+            "Texture": -1,
+            "Varient": -1
+        },
+        {
+            "Componet": 3,
+            "Texture": -1,
+            "Varient": -1
+        }
+    ],
+    "Z": "0",
+    "maden": "KJay2zs"
+}

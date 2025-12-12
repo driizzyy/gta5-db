@@ -1,0 +1,331 @@
+[
+    {
+        "name": "Barbie Virtue",
+        "description": "Barbie_Virtue for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Barbie_Virtue.json"
+    },
+    {
+        "name": "CoquetteV10 Gold",
+        "description": "CoquetteV10_Gold for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/CoquetteV10_Gold.json"
+    },
+    {
+        "name": "Deluxo BlueDiamond",
+        "description": "Deluxo_BlueDiamond for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Deluxo_BlueDiamond.json"
+    },
+    {
+        "name": "Deluxo PurpleChrome",
+        "description": "Deluxo_PurpleChrome for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Deluxo_PurpleChrome.json"
+    },
+    {
+        "name": "Deveste RedChrome",
+        "description": "Deveste_RedChrome for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Deveste_RedChrome.json"
+    },
+    {
+        "name": "DR1 BlackChrome",
+        "description": "DR1_BlackChrome for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/DR1_BlackChrome.json"
+    },
+    {
+        "name": "ElegyRetroCustom BlackMatte",
+        "description": "ElegyRetroCustom_BlackMatte for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/ElegyRetroCustom_BlackMatte.json"
+    },
+    {
+        "name": "ElegyRetroCustom RedOrange",
+        "description": "ElegyRetroCustom_RedOrange for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/ElegyRetroCustom_RedOrange.json"
+    },
+    {
+        "name": "ElegyRetroCustom White",
+        "description": "ElegyRetroCustom_White for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/ElegyRetroCustom_White.json"
+    },
+    {
+        "name": "EntityMT Black",
+        "description": "EntityMT_Black for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/EntityMT_Black.json"
+    },
+    {
+        "name": "Euros BlackGold",
+        "description": "Euros_BlackGold for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Euros_BlackGold.json"
+    },
+    {
+        "name": "FlashVapidGT Orange",
+        "description": "FlashVapidGT_Orange for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/FlashVapidGT_Orange.json"
+    },
+    {
+        "name": "Flash GT Clean Version",
+        "description": "Flash_GT_Clean_Version for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Flash_GT_Clean_Version.json"
+    },
+    {
+        "name": "Flash GT Race Version",
+        "description": "Flash_GT_Race_Version for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Flash_GT_Race_Version.json"
+    },
+    {
+        "name": "Inveteno",
+        "description": "inveteno for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/inveteno.json"
+    },
+    {
+        "name": "ItaliGTO BlackMatteRed",
+        "description": "ItaliGTO_BlackMatteRed for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/ItaliGTO_BlackMatteRed.json"
+    },
+    {
+        "name": "ItaliGTO Purple",
+        "description": "ItaliGTO_Purple for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/ItaliGTO_Purple.json"
+    },
+    {
+        "name": "Itali RSX Pink",
+        "description": "Itali_RSX_Pink for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Itali_RSX_Pink.json"
+    },
+    {
+        "name": "KanjoXS BrownOrange",
+        "description": "KanjoXS_BrownOrange for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/KanjoXS_BrownOrange.json"
+    },
+    {
+        "name": "Kosatka Black",
+        "description": "kosatka_Black for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/kosatka_Black.json"
+    },
+    {
+        "name": "Kuruma RedOrange",
+        "description": "Kuruma_RedOrange for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Kuruma_RedOrange.json"
+    },
+    {
+        "name": "Luxury Jeep",
+        "description": "Luxury_Jeep for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Luxury_Jeep.json"
+    },
+    {
+        "name": "Manchez RedOrange",
+        "description": "Manchez_RedOrange for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Manchez_RedOrange.json"
+    },
+    {
+        "name": "My Grandpa Car",
+        "description": "My_Grandpa_Car for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/My_Grandpa_Car.json"
+    },
+    {
+        "name": "NightShark RedPink",
+        "description": "NightShark_RedPink for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/NightShark_RedPink.json"
+    },
+    {
+        "name": "Obey10F GreyGold",
+        "description": "Obey10F_GreyGold for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Obey10F_GreyGold.json"
+    },
+    {
+        "name": "ObeyDrafter BlueDuckChrome",
+        "description": "ObeyDrafter_BlueDuckChrome for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/ObeyDrafter_BlueDuckChrome.json"
+    },
+    {
+        "name": "Omagioo",
+        "description": "omagioo for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/omagioo.json"
+    },
+    {
+        "name": "OutLaw RedOrange",
+        "description": "OutLaw_RedOrange for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/OutLaw_RedOrange.json"
+    },
+    {
+        "name": "Panthere Purple",
+        "description": "Panthere_Purple for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Panthere_Purple.json"
+    },
+    {
+        "name": "Panthere RedOrange",
+        "description": "Panthere_RedOrange for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Panthere_RedOrange.json"
+    },
+    {
+        "name": "ParagonS BlueRed",
+        "description": "ParagonS_BlueRed for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/ParagonS_BlueRed.json"
+    },
+    {
+        "name": "Pariah Blue",
+        "description": "Pariah_Blue for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Pariah_Blue.json"
+    },
+    {
+        "name": "Pariah LimeYellow",
+        "description": "Pariah_LimeYellow for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Pariah_LimeYellow.json"
+    },
+    {
+        "name": "Purple Bugatti",
+        "description": "Purple_Bugatti for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Purple_Bugatti.json"
+    },
+    {
+        "name": "SchlagenGT BlackMatteRed",
+        "description": "SchlagenGT_BlackMatteRed for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/SchlagenGT_BlackMatteRed.json"
+    },
+    {
+        "name": "SPOILER Phoenix",
+        "description": "SPOILER_phoenix for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/SPOILER_phoenix.json"
+    },
+    {
+        "name": "SultanRS BlueChrome",
+        "description": "SultanRS_BlueChrome for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/SultanRS_BlueChrome.json"
+    },
+    {
+        "name": "Thrax GreenChrome",
+        "description": "Thrax_GreenChrome for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Thrax_GreenChrome.json"
+    },
+    {
+        "name": "Thrax SkyBlueChrome",
+        "description": "Thrax_SkyBlueChrome for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Thrax_SkyBlueChrome.json"
+    },
+    {
+        "name": "Tonka Truck 6x6",
+        "description": "tonka truck 6x6 for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/tonka truck 6x6.json"
+    },
+    {
+        "name": "Toros Purple",
+        "description": "Toros_Purple for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Toros_Purple.json"
+    },
+    {
+        "name": "Tyran WhiteChrome",
+        "description": "Tyran_WhiteChrome for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Tyran_WhiteChrome.json"
+    },
+    {
+        "name": "Vectre Red",
+        "description": "Vectre_Red for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Vectre_Red.json"
+    },
+    {
+        "name": "Visione PurpleChromePink",
+        "description": "Visione_PurpleChromePink for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Visione_PurpleChromePink.json"
+    },
+    {
+        "name": "Zentorrno BlueDuck",
+        "description": "Zentorrno_BlueDuck for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Zentorrno_BlueDuck.json"
+    },
+    {
+        "name": "Zion Classic BlackMatte",
+        "description": "Zion_Classic_BlackMatte for Atlas Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/atlas/vehicles/Zion_Classic_BlackMatte.json"
+    }
+]

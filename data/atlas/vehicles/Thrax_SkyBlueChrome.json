@@ -1,0 +1,92 @@
+{
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        6,
+        0
+    ],
+    "MOD_FRAME": [
+        1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        2,
+        0
+    ],
+    "MOD_GRILLE": [
+        7,
+        0
+    ],
+    "MOD_HOOD": [
+        13,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        1,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        3,
+        0
+    ],
+    "MOD_SPOILERS": [
+        8,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        0,
+        255,
+        235
+    ],
+    "custom_secondary_color": [
+        0,
+        255,
+        235
+    ],
+    "dash_color": 65,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 22,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 144,
+    "plate_text": "25CEX192",
+    "plate_text_index": 0,
+    "primary_color": 120,
+    "radio_station": "RADIO_02_POP",
+    "secondary_color": 120,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 1044193113,
+    "vehicle_window_tint": 0,
+    "wheel_color": 21,
+    "wheel_type": 7
+}

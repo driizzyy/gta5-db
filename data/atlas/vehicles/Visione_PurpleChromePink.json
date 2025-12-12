@@ -1,0 +1,84 @@
+{
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        3,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        2,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        30,
+        0
+    ],
+    "MOD_HOOD": [
+        0,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        3,
+        0
+    ],
+    "MOD_SPOILERS": [
+        3,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        146,
+        0,
+        255
+    ],
+    "custom_secondary_color": [
+        146,
+        0,
+        255
+    ],
+    "dash_color": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 1,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 135,
+    "plate_text": "29FJF432",
+    "plate_text_index": 0,
+    "primary_color": 120,
+    "radio_station": "RADIO_35_DLC_HEI4_MLR",
+    "secondary_color": 120,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 3296789504,
+    "vehicle_window_tint": -1,
+    "wheel_color": 1,
+    "wheel_type": 8
+}

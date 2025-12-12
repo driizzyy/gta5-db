@@ -1,0 +1,17 @@
+{
+    "has_collision": true,
+    "is_invincible": true,
+    "is_visible": true,
+    "model_attachments": [],
+    "pearlescent_color": 3,
+    "plate_text": "48SWT538",
+    "plate_text_index": 0,
+    "primary_color": 21,
+    "radio_station": "OFF",
+    "secondary_color": 46,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 1336872304,
+    "vehicle_window_tint": -1,
+    "wheel_color": 0
+}

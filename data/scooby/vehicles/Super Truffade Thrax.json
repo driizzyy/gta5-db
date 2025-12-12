@@ -1,0 +1,102 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        4,
+        0
+    ],
+    "MOD_FRAME": [
+        -1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        17,
+        0
+    ],
+    "MOD_GRILLE": [
+        -1,
+        0
+    ],
+    "MOD_HOOD": [
+        14,
+        0
+    ],
+    "MOD_HORNS": [
+        -1,
+        0
+    ],
+    "MOD_LIVERY": [
+        2,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        2,
+        0
+    ],
+    "MOD_ROOF": [
+        -1,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        0,
+        0
+    ],
+    "MOD_SPOILERS": [
+        -1,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "dash_color": 0,
+    "drift_tires": 0,
+    "interior_color": 1,
+    "neon_color": [
+        0,
+        255,
+        140
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 51,
+    "plate_text": "29XHW966",
+    "plate_text_index": 1,
+    "primary_color": 52,
+    "secondary_color": 49,
+    "tire_can_burst": 0,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 1044193113,
+    "vehicle_window_tint": 0,
+    "wheel_color": 53,
+    "wheel_type": 7
+}

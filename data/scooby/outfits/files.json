@@ -1,0 +1,275 @@
+[
+    {
+        "name": "10",
+        "description": "10 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/10.txt"
+    },
+    {
+        "name": "11",
+        "description": "11 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/11.txt"
+    },
+    {
+        "name": "12",
+        "description": "12 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/12.txt"
+    },
+    {
+        "name": "13",
+        "description": "13 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/13.txt"
+    },
+    {
+        "name": "14",
+        "description": "14 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/14.txt"
+    },
+    {
+        "name": "15",
+        "description": "15 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/15.txt"
+    },
+    {
+        "name": "6",
+        "description": "6 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/6.txt"
+    },
+    {
+        "name": "7",
+        "description": "7 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/7.txt"
+    },
+    {
+        "name": "8",
+        "description": "8 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/8.txt"
+    },
+    {
+        "name": "9",
+        "description": "9 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/9.txt"
+    },
+    {
+        "name": "Black Tryhard",
+        "description": "black tryhard for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/black tryhard.json"
+    },
+    {
+        "name": "Black",
+        "description": "black for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/black.json"
+    },
+    {
+        "name": "Blue Duffy",
+        "description": "blue duffy for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/blue duffy.json"
+    },
+    {
+        "name": "Drippy",
+        "description": "drippy for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/drippy.json"
+    },
+    {
+        "name": "FEMALE (1)",
+        "description": "FEMALE (1) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/FEMALE (1).json"
+    },
+    {
+        "name": "FEMALE (10)",
+        "description": "FEMALE (10) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/FEMALE (10).json"
+    },
+    {
+        "name": "FEMALE (2)",
+        "description": "FEMALE (2) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/FEMALE (2).json"
+    },
+    {
+        "name": "FEMALE (3)",
+        "description": "FEMALE (3) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/FEMALE (3).json"
+    },
+    {
+        "name": "FEMALE (4)",
+        "description": "FEMALE (4) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/FEMALE (4).json"
+    },
+    {
+        "name": "FEMALE (5)",
+        "description": "FEMALE (5) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/FEMALE (5).json"
+    },
+    {
+        "name": "FEMALE (6)",
+        "description": "FEMALE (6) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/FEMALE (6).json"
+    },
+    {
+        "name": "FEMALE (7)",
+        "description": "FEMALE (7) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/FEMALE (7).json"
+    },
+    {
+        "name": "FEMALE (8)",
+        "description": "FEMALE (8) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/FEMALE (8).json"
+    },
+    {
+        "name": "FEMALE (9)",
+        "description": "FEMALE (9) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/FEMALE (9).json"
+    },
+    {
+        "name": "Fire Man",
+        "description": "fire man for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/fire man.json"
+    },
+    {
+        "name": "MALE (1)",
+        "description": "MALE (1) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/MALE (1).json"
+    },
+    {
+        "name": "MALE (10)",
+        "description": "MALE (10) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/MALE (10).json"
+    },
+    {
+        "name": "MALE (2)",
+        "description": "MALE (2) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/MALE (2).json"
+    },
+    {
+        "name": "MALE (3)",
+        "description": "MALE (3) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/MALE (3).json"
+    },
+    {
+        "name": "MALE (4)",
+        "description": "MALE (4) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/MALE (4).json"
+    },
+    {
+        "name": "MALE (5)",
+        "description": "MALE (5) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/MALE (5).json"
+    },
+    {
+        "name": "MALE (6)",
+        "description": "MALE (6) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/MALE (6).json"
+    },
+    {
+        "name": "MALE (7)",
+        "description": "MALE (7) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/MALE (7).json"
+    },
+    {
+        "name": "MALE (8)",
+        "description": "MALE (8) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/MALE (8).json"
+    },
+    {
+        "name": "MALE (9)",
+        "description": "MALE (9) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/MALE (9).json"
+    },
+    {
+        "name": "Pink Duffy",
+        "description": "pink duffy for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/pink duffy.json"
+    },
+    {
+        "name": "Purple",
+        "description": "purple for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/purple.json"
+    },
+    {
+        "name": "White Tryhard",
+        "description": "white tryhard for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/white tryhard.json"
+    },
+    {
+        "name": "White",
+        "description": "white for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/outfits/white.json"
+    }
+]

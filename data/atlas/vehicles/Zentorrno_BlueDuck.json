@@ -1,0 +1,88 @@
+{
+    "MOD_EXHAUST": [
+        5,
+        0
+    ],
+    "MOD_FRAME": [
+        1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        2,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        19,
+        0
+    ],
+    "MOD_GRILLE": [
+        0,
+        0
+    ],
+    "MOD_HOOD": [
+        3,
+        0
+    ],
+    "MOD_LIVERY": [
+        0,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        0,
+        0
+    ],
+    "MOD_ROOF": [
+        1,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        4,
+        0
+    ],
+    "MOD_SPOILERS": [
+        6,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        0,
+        28,
+        50
+    ],
+    "custom_secondary_color": [
+        0,
+        28,
+        50
+    ],
+    "dash_color": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 0,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 64,
+    "plate_text": "40TFE917",
+    "plate_text_index": 0,
+    "primary_color": 84,
+    "radio_station": "RADIO_35_DLC_HEI4_MLR",
+    "secondary_color": 84,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 2891838741,
+    "vehicle_window_tint": -1,
+    "wheel_color": 156,
+    "wheel_type": 8
+}

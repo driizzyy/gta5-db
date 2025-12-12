@@ -1,0 +1,130 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARCHCOVER": [
+        1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        3,
+        0
+    ],
+    "MOD_FENDER": [
+        1,
+        0
+    ],
+    "MOD_FRAME": [
+        4,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        1,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        6,
+        0
+    ],
+    "MOD_GRILLE": [
+        2,
+        0
+    ],
+    "MOD_HOOD": [
+        4,
+        0
+    ],
+    "MOD_HORNS": [
+        51,
+        0
+    ],
+    "MOD_LIVERY": [
+        -1,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        5,
+        0
+    ],
+    "MOD_RIGHTFENDER": [
+        4,
+        0
+    ],
+    "MOD_ROOF": [
+        3,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        2,
+        0
+    ],
+    "MOD_SPOILERS": [
+        5,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "custom_primary_color": [
+        59,
+        0,
+        153
+    ],
+    "custom_secondary_color": [
+        59,
+        0,
+        153
+    ],
+    "dash_color": 142,
+    "drift_tires": 0,
+    "headlight_color": 11,
+    "interior_color": 142,
+    "neon_color": [
+        59,
+        0,
+        153
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 142,
+    "plate_text": " MODDED ",
+    "plate_text_index": 10,
+    "primary_color": 122,
+    "secondary_color": 122,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        0,
+        0,
+        0
+    ],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 2709293299,
+    "vehicle_window_tint": 0,
+    "wheel_color": 111,
+    "wheel_type": 10
+}

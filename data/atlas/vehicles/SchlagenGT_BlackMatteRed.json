@@ -1,0 +1,96 @@
+{
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        3,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        8,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        0,
+        0
+    ],
+    "MOD_GRILLE": [
+        4,
+        0
+    ],
+    "MOD_HOOD": [
+        8,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        5,
+        0
+    ],
+    "MOD_ROOF": [
+        3,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        4,
+        0
+    ],
+    "MOD_SPOILERS": [
+        1,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        5,
+        5,
+        5
+    ],
+    "custom_secondary_color": [
+        5,
+        5,
+        5
+    ],
+    "dash_color": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 3,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 29,
+    "plate_text": "60ZPU713",
+    "plate_text_index": 0,
+    "primary_color": 12,
+    "radio_station": "RADIO_02_POP",
+    "secondary_color": 12,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 3787471536,
+    "vehicle_window_tint": -1,
+    "wheel_color": 12,
+    "wheel_type": 10
+}

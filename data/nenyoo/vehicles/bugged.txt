@@ -1,0 +1,35 @@
+Model: COQUETTE2
+Plate Style: 6
+Plate Text:  SITAR  
+Primary Colour: 118
+Secondary Colour: 118
+Pearl Colour: 70
+Wheel Colour: 0
+Wheel Type: 8
+Engine: 3
+Brakes: 2
+Transmission: 2
+Horns: 41
+Suspension: -1
+Armor: -1
+Turbo: Yes
+Tiresmoke: Yes
+Headlights: -1
+Front Wheels: 108
+Livery: 0
+Tyre Smoke Colour: #FFFFFF
+Window Tint: 0
+Custom Primary Colour: #8C5AE6
+Custom Secondary Colour: #1A1E21
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Neon Colour: #000000
+Interior Colour: 0
+Dashboard Colour: 0
+Extra 1: Yes
+Extra 2: Yes
+Unk17: Yes
+Unk19: Yes
+Unk21: Yes

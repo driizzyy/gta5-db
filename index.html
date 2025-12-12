@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GTA 5 Mod Menu Database</title>
+    <link rel="stylesheet" href="src/styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1> GTA 5 Mod Menu Database</h1>
+            <p class="subtitle">Lua Scripts, Outfits & Vehicles for Scooby, Nenyoo & Atlas</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="menu-selector">
+            <button class="menu-btn active" data-menu="scooby">Scooby Mod Menu</button>
+            <button class="menu-btn" data-menu="nenyoo">Nenyoo Mod Menu</button>
+            <button class="menu-btn" data-menu="atlas">Atlas Mod Menu</button>
+        </div>
+
+        <div class="category-selector">
+            <button class="category-btn active" data-category="lua-scripts">
+                <span class="icon"></span>
+                Lua Scripts
+            </button>
+            <button class="category-btn" data-category="outfits">
+                <span class="icon"></span>
+                Outfits
+            </button>
+            <button class="category-btn" data-category="vehicles">
+                <span class="icon"></span>
+                Vehicles
+            </button>
+        </div>
+
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search files...">
+        </div>
+
+        <div id="content" class="content-grid">
+            <div class="empty-state">
+                <p>No files found. Add files to the data folder to get started.</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 GTA 5 Mod Menu Database | For Educational Purposes Only</p>
+        </div>
+    </footer>
+
+    <script src="src/script.js"></script>
+</body>
+</html>

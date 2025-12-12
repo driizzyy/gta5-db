@@ -1,0 +1,125 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        0,
+        0
+    ],
+    "MOD_FENDER": [
+        0,
+        0
+    ],
+    "MOD_FRAME": [
+        1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        4,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        25,
+        0
+    ],
+    "MOD_GRILLE": [
+        0,
+        0
+    ],
+    "MOD_HOOD": [
+        4,
+        0
+    ],
+    "MOD_HORNS": [
+        42,
+        0
+    ],
+    "MOD_LIVERY": [
+        -1,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        -1,
+        0
+    ],
+    "MOD_RIGHTFENDER": [
+        -1,
+        0
+    ],
+    "MOD_ROOF": [
+        -1,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        0,
+        0
+    ],
+    "MOD_SPOILERS": [
+        -1,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        2,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TRIM": [
+        -1,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "custom_secondary_color": [
+        0,
+        101,
+        255
+    ],
+    "dash_color": 0,
+    "drift_tires": 0,
+    "headlight_color": 255,
+    "interior_color": 1,
+    "neon_color": [
+        0,
+        0,
+        0
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 28,
+    "plate_text": "3DSCM869",
+    "plate_text_index": 0,
+    "primary_color": 27,
+    "secondary_color": 0,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        20,
+        20,
+        20
+    ],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 4171974011,
+    "vehicle_window_tint": 3,
+    "wheel_color": 122,
+    "wheel_type": 11
+}

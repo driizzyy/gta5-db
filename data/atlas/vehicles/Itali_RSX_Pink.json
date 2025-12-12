@@ -1,0 +1,112 @@
+{
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        4,
+        0
+    ],
+    "MOD_FRAME": [
+        4,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        15,
+        0
+    ],
+    "MOD_GRILLE": [
+        5,
+        0
+    ],
+    "MOD_HOOD": [
+        11,
+        0
+    ],
+    "MOD_LIVERY": [
+        4,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        12,
+        0
+    ],
+    "MOD_RIGHTFENDER": [
+        0,
+        0
+    ],
+    "MOD_ROOF": [
+        4,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        8,
+        0
+    ],
+    "MOD_SPOILERS": [
+        18,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        1,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        235,
+        35,
+        55
+    ],
+    "custom_secondary_color": [
+        235,
+        35,
+        55
+    ],
+    "dash_color": 156,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 39,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 131,
+    "plate_text": "21SPA190",
+    "plate_text_index": 0,
+    "primary_color": 141,
+    "radio_station": "RADIO_34_DLC_HEI4_KULT",
+    "secondary_color": 150,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 3145241962,
+    "vehicle_window_tint": -1,
+    "wheel_color": 35,
+    "wheel_type": 8
+}

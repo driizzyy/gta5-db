@@ -1,0 +1,109 @@
+{
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        0,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        1,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        14,
+        1
+    ],
+    "MOD_GRILLE": [
+        0,
+        0
+    ],
+    "MOD_HOOD": [
+        1,
+        0
+    ],
+    "MOD_HORNS": [
+        28,
+        0
+    ],
+    "MOD_ROOF": [
+        0,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        0,
+        0
+    ],
+    "MOD_SPOILERS": [
+        1,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        3,
+        255,
+        0
+    ],
+    "dash_color": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 0,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 37,
+    "plate_text": "40TFE917",
+    "plate_text_index": 2,
+    "primary_color": 1,
+    "radio_station": "OFF",
+    "secondary_color": 101,
+    "vehicle_attachments": [],
+    "vehicle_extras": [
+        [
+            4,
+            true
+        ],
+        [
+            10,
+            true
+        ],
+        [
+            11,
+            true
+        ]
+    ],
+    "vehicle_model_hash": 2199527893,
+    "vehicle_window_tint": 1,
+    "wheel_color": 106,
+    "wheel_type": 1
+}

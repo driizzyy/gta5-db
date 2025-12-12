@@ -1,0 +1,4384 @@
+[
+    {
+        "name": "01",
+        "description": "01 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/01.txt"
+    },
+    {
+        "name": "1",
+        "description": "1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1.txt"
+    },
+    {
+        "name": "10",
+        "description": "10 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/10.txt"
+    },
+    {
+        "name": "11",
+        "description": "11 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/11.txt"
+    },
+    {
+        "name": "12",
+        "description": "12 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/12.txt"
+    },
+    {
+        "name": "13",
+        "description": "13 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/13.txt"
+    },
+    {
+        "name": "14",
+        "description": "14 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/14.txt"
+    },
+    {
+        "name": "15",
+        "description": "15 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/15.txt"
+    },
+    {
+        "name": "16",
+        "description": "16 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/16.txt"
+    },
+    {
+        "name": "17",
+        "description": "17 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/17.txt"
+    },
+    {
+        "name": "18",
+        "description": "18 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/18.txt"
+    },
+    {
+        "name": "19",
+        "description": "19 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/19.txt"
+    },
+    {
+        "name": "1Anna",
+        "description": "1Anna for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Anna.txt"
+    },
+    {
+        "name": "1Bean Female",
+        "description": "1Bean Female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Bean Female.txt"
+    },
+    {
+        "name": "1Bean",
+        "description": "1Bean for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Bean.txt"
+    },
+    {
+        "name": "1Bus Outfit",
+        "description": "1Bus outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Bus outfit.txt"
+    },
+    {
+        "name": "1Candy Orig",
+        "description": "1Candy Orig for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Candy Orig.txt"
+    },
+    {
+        "name": "1CandyDinka",
+        "description": "1CandyDinka for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1CandyDinka.txt"
+    },
+    {
+        "name": "1Cop",
+        "description": "1Cop for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Cop.txt"
+    },
+    {
+        "name": "1Elf Female",
+        "description": "1Elf female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Elf female.txt"
+    },
+    {
+        "name": "1emily",
+        "description": "1emily for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1emily.txt"
+    },
+    {
+        "name": "1Georgia",
+        "description": "1Georgia for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Georgia.txt"
+    },
+    {
+        "name": "1Jeti Made",
+        "description": "1Jeti made for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Jeti made.txt"
+    },
+    {
+        "name": "1Legy",
+        "description": "1Legy for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Legy.txt"
+    },
+    {
+        "name": "1Mario",
+        "description": "1Mario for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Mario.txt"
+    },
+    {
+        "name": "1Mrs Claus",
+        "description": "1Mrs Claus for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Mrs Claus.txt"
+    },
+    {
+        "name": "1Naked",
+        "description": "1Naked for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Naked.txt"
+    },
+    {
+        "name": "1Nice Purple",
+        "description": "1Nice Purple for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Nice Purple.txt"
+    },
+    {
+        "name": "1NicePurple",
+        "description": "1NicePurple for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1NicePurple.txt"
+    },
+    {
+        "name": "1p1nky",
+        "description": "1p1nky for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1p1nky.txt"
+    },
+    {
+        "name": "1Santa Female",
+        "description": "1Santa Female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Santa Female.txt"
+    },
+    {
+        "name": "1Santa Male",
+        "description": "1Santa Male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Santa Male.txt"
+    },
+    {
+        "name": "1Sophies",
+        "description": "1Sophies for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Sophies.txt"
+    },
+    {
+        "name": "1Stig",
+        "description": "1Stig for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Stig.txt"
+    },
+    {
+        "name": "1Trevor",
+        "description": "1Trevor for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1Trevor.txt"
+    },
+    {
+        "name": "1white",
+        "description": "1white for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1white.txt"
+    },
+    {
+        "name": "1xCandy New",
+        "description": "1xCandy new for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/1xCandy new.txt"
+    },
+    {
+        "name": "2",
+        "description": "2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/2.txt"
+    },
+    {
+        "name": "20",
+        "description": "20 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/20.txt"
+    },
+    {
+        "name": "21",
+        "description": "21 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/21.txt"
+    },
+    {
+        "name": "22",
+        "description": "22 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/22.txt"
+    },
+    {
+        "name": "23",
+        "description": "23 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/23.txt"
+    },
+    {
+        "name": "24",
+        "description": "24 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/24.txt"
+    },
+    {
+        "name": "25",
+        "description": "25 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/25.txt"
+    },
+    {
+        "name": "26",
+        "description": "26 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/26.txt"
+    },
+    {
+        "name": "27",
+        "description": "27 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/27.txt"
+    },
+    {
+        "name": "28",
+        "description": "28 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/28.txt"
+    },
+    {
+        "name": "29",
+        "description": "29 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/29.txt"
+    },
+    {
+        "name": "3",
+        "description": "3 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/3.txt"
+    },
+    {
+        "name": "30",
+        "description": "30 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/30.txt"
+    },
+    {
+        "name": "31",
+        "description": "31 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/31.txt"
+    },
+    {
+        "name": "32",
+        "description": "32 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/32.txt"
+    },
+    {
+        "name": "33",
+        "description": "33 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/33.txt"
+    },
+    {
+        "name": "34",
+        "description": "34 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/34.txt"
+    },
+    {
+        "name": "35",
+        "description": "35 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/35.txt"
+    },
+    {
+        "name": "36",
+        "description": "36 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/36.txt"
+    },
+    {
+        "name": "37",
+        "description": "37 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/37.txt"
+    },
+    {
+        "name": "38",
+        "description": "38 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/38.txt"
+    },
+    {
+        "name": "39",
+        "description": "39 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/39.txt"
+    },
+    {
+        "name": "4",
+        "description": "4 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/4.txt"
+    },
+    {
+        "name": "40",
+        "description": "40 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/40.txt"
+    },
+    {
+        "name": "41",
+        "description": "41 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/41.txt"
+    },
+    {
+        "name": "42",
+        "description": "42 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/42.txt"
+    },
+    {
+        "name": "43",
+        "description": "43 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/43.txt"
+    },
+    {
+        "name": "44",
+        "description": "44 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/44.txt"
+    },
+    {
+        "name": "45",
+        "description": "45 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/45.txt"
+    },
+    {
+        "name": "46",
+        "description": "46 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/46.txt"
+    },
+    {
+        "name": "47",
+        "description": "47 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/47.txt"
+    },
+    {
+        "name": "48",
+        "description": "48 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/48.txt"
+    },
+    {
+        "name": "49",
+        "description": "49 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/49.txt"
+    },
+    {
+        "name": "5",
+        "description": "5 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/5.txt"
+    },
+    {
+        "name": "50",
+        "description": "50 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/50.txt"
+    },
+    {
+        "name": "51",
+        "description": "51 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/51.txt"
+    },
+    {
+        "name": "52",
+        "description": "52 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/52.txt"
+    },
+    {
+        "name": "53",
+        "description": "53 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/53.txt"
+    },
+    {
+        "name": "54",
+        "description": "54 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/54.txt"
+    },
+    {
+        "name": "55",
+        "description": "55 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/55.txt"
+    },
+    {
+        "name": "56",
+        "description": "56 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/56.txt"
+    },
+    {
+        "name": "57",
+        "description": "57 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/57.txt"
+    },
+    {
+        "name": "58",
+        "description": "58 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/58.txt"
+    },
+    {
+        "name": "59",
+        "description": "59 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/59.txt"
+    },
+    {
+        "name": "6",
+        "description": "6 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/6.txt"
+    },
+    {
+        "name": "60",
+        "description": "60 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/60.txt"
+    },
+    {
+        "name": "61",
+        "description": "61 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/61.txt"
+    },
+    {
+        "name": "62",
+        "description": "62 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/62.txt"
+    },
+    {
+        "name": "7",
+        "description": "7 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/7.txt"
+    },
+    {
+        "name": "8",
+        "description": "8 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/8.txt"
+    },
+    {
+        "name": "9",
+        "description": "9 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/9.txt"
+    },
+    {
+        "name": "93FLASH GT ",
+        "description": "93FLASH_GT_ for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/93FLASH_GT_.txt"
+    },
+    {
+        "name": "93 MY PFISTER ",
+        "description": "93_MY_PFISTER_ for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/93_MY_PFISTER_.txt"
+    },
+    {
+        "name": "A Dun Cap Fitt",
+        "description": "a dun cap fitt for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/a dun cap fitt.txt"
+    },
+    {
+        "name": "Aiden",
+        "description": "aiden for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/aiden.txt"
+    },
+    {
+        "name": "ALIEN GREEN",
+        "description": "ALIEN GREEN for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/ALIEN GREEN.txt"
+    },
+    {
+        "name": "ALIEN PURPLE",
+        "description": "ALIEN PURPLE for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/ALIEN PURPLE.txt"
+    },
+    {
+        "name": "Alien",
+        "description": "Alien for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Alien.txt"
+    },
+    {
+        "name": "Badcop",
+        "description": "badcop for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/badcop.txt"
+    },
+    {
+        "name": "BLACK & YELLOW TRON",
+        "description": "BLACK & YELLOW TRON for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/BLACK & YELLOW TRON.json"
+    },
+    {
+        "name": "Black 1.0",
+        "description": "black 1.0 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black 1.0.txt"
+    },
+    {
+        "name": "Black And Red TH Male",
+        "description": "black and red TH male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black and red TH male.txt"
+    },
+    {
+        "name": "Black Checkered Female",
+        "description": "black checkered female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black checkered female.txt"
+    },
+    {
+        "name": "Black Female (2)",
+        "description": "black female (2) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black female (2).txt"
+    },
+    {
+        "name": "Black Female",
+        "description": "black female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black female.txt"
+    },
+    {
+        "name": "Black Intruder Female",
+        "description": "black intruder female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black intruder female.txt"
+    },
+    {
+        "name": "Black Inviz Male",
+        "description": "black inviz male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black inviz male.txt"
+    },
+    {
+        "name": "Black Joggers Female Cop",
+        "description": "black joggers female cop for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black joggers female cop.txt"
+    },
+    {
+        "name": "Black Kgb Female",
+        "description": "black kgb female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black kgb female.txt"
+    },
+    {
+        "name": "Black Laced Armour Female",
+        "description": "black laced armour female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black laced armour female.txt"
+    },
+    {
+        "name": "Black Laced Female 2.0",
+        "description": "black laced female 2.0 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black laced female 2.0.txt"
+    },
+    {
+        "name": "Black Male (2)",
+        "description": "black male (2) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black male (2).txt"
+    },
+    {
+        "name": "Black Male (3)",
+        "description": "black male (3) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black male (3).txt"
+    },
+    {
+        "name": "Black Male",
+        "description": "black male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black male.txt"
+    },
+    {
+        "name": "Black Outfit",
+        "description": "Black Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Black Outfit.txt"
+    },
+    {
+        "name": "Black Quad Female",
+        "description": "black quad female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black quad female.txt"
+    },
+    {
+        "name": "BLACK TRON",
+        "description": "BLACK TRON for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/BLACK TRON.json"
+    },
+    {
+        "name": "Black Tryhard",
+        "description": "black tryhard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black tryhard.json"
+    },
+    {
+        "name": "Black",
+        "description": "black for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black.json"
+    },
+    {
+        "name": "Black",
+        "description": "Black for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Black.txt"
+    },
+    {
+        "name": "Black3",
+        "description": "Black3 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Black3.txt"
+    },
+    {
+        "name": "BlackFemale",
+        "description": "BlackFemale for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/BlackFemale.txt"
+    },
+    {
+        "name": "BlackProlaps",
+        "description": "blackProlaps for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/blackProlaps.txt"
+    },
+    {
+        "name": "Black 0.1",
+        "description": "Black_0.1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Black_0.1.txt"
+    },
+    {
+        "name": "Black And Red Tryhard V2",
+        "description": "Black_and_Red_Tryhard_v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Black_and_Red_Tryhard_v2.txt"
+    },
+    {
+        "name": "Black F",
+        "description": "black_f for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black_f.txt"
+    },
+    {
+        "name": "BLACK INVI",
+        "description": "BLACK_INVI for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/BLACK_INVI.txt"
+    },
+    {
+        "name": "Black Invis M",
+        "description": "black_invis_M for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black_invis_M.txt"
+    },
+    {
+        "name": "Black Joggers Female Cop",
+        "description": "black_joggers_female_cop for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black_joggers_female_cop.txt"
+    },
+    {
+        "name": "Black Modded",
+        "description": "black_modded for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/black_modded.txt"
+    },
+    {
+        "name": "Black Tryhard",
+        "description": "Black_Tryhard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Black_Tryhard.txt"
+    },
+    {
+        "name": "BlckTrhrd",
+        "description": "BlckTrhrd for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/BlckTrhrd.txt"
+    },
+    {
+        "name": "Bleu",
+        "description": "Bleu for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Bleu.txt"
+    },
+    {
+        "name": "Blue Duffy",
+        "description": "blue duffy for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/blue duffy.json"
+    },
+    {
+        "name": "BLUE TRON SCUBA",
+        "description": "BLUE TRON SCUBA for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/BLUE TRON SCUBA.json"
+    },
+    {
+        "name": "Blueee",
+        "description": "blueee for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/blueee.json"
+    },
+    {
+        "name": "Blue Crew",
+        "description": "Blue_Crew for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Blue_Crew.txt"
+    },
+    {
+        "name": "Blue Modded",
+        "description": "Blue_modded for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Blue_modded.txt"
+    },
+    {
+        "name": "BLUE NT",
+        "description": "BLUE_NT for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/BLUE_NT.txt"
+    },
+    {
+        "name": "BOIADEIRA",
+        "description": "BOIADEIRA for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/BOIADEIRA.txt"
+    },
+    {
+        "name": "Brown",
+        "description": "brown for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/brown.txt"
+    },
+    {
+        "name": "Butler Modder",
+        "description": "Butler Modder for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Butler Modder.txt"
+    },
+    {
+        "name": "BW",
+        "description": "BW for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/BW.txt"
+    },
+    {
+        "name": "C&A",
+        "description": "C&A for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/C&A.txt"
+    },
+    {
+        "name": "Casual",
+        "description": "Casual for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Casual.txt"
+    },
+    {
+        "name": "Chadvan",
+        "description": "chadvan for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/chadvan.txt"
+    },
+    {
+        "name": "Checkered  Duffle Bag  Dunce Hat",
+        "description": "Checkered__Duffle_bag__Dunce_hat for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Checkered__Duffle_bag__Dunce_hat.txt"
+    },
+    {
+        "name": "Classic Ps3 TH Male",
+        "description": "classic ps3 TH male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/classic ps3 TH male.txt"
+    },
+    {
+        "name": "Classic TryHard",
+        "description": "Classic TryHard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Classic TryHard.txt"
+    },
+    {
+        "name": "Cool Black Tights",
+        "description": "Cool_black_tights for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Cool_black_tights.txt"
+    },
+    {
+        "name": "Country",
+        "description": "Country for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Country.txt"
+    },
+    {
+        "name": "Cowboy Male",
+        "description": "cowboy male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/cowboy male.txt"
+    },
+    {
+        "name": "Crash",
+        "description": "Crash for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Crash.txt"
+    },
+    {
+        "name": "Criminal Male",
+        "description": "criminal male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/criminal male.txt"
+    },
+    {
+        "name": "Criminal",
+        "description": "Criminal for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Criminal.txt"
+    },
+    {
+        "name": "Crooked Devil",
+        "description": "Crooked_Devil for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Crooked_Devil.txt"
+    },
+    {
+        "name": "Cute Female",
+        "description": "cute female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/cute female.txt"
+    },
+    {
+        "name": "Cute",
+        "description": "cute for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/cute.txt"
+    },
+    {
+        "name": "Desert Demon Male",
+        "description": "desert demon male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/desert demon male.txt"
+    },
+    {
+        "name": "Desert Demon",
+        "description": "desert_demon for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/desert_demon.txt"
+    },
+    {
+        "name": "Devil Male",
+        "description": "devil male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/devil male.txt"
+    },
+    {
+        "name": "Dinosaur",
+        "description": "Dinosaur for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Dinosaur.txt"
+    },
+    {
+        "name": "Doc",
+        "description": "Doc for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Doc.txt"
+    },
+    {
+        "name": "Doka",
+        "description": "Doka for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Doka.txt"
+    },
+    {
+        "name": "Dr.Disrespec",
+        "description": "Dr.Disrespec for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Dr.Disrespec.txt"
+    },
+    {
+        "name": "Drippy",
+        "description": "drippy for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/drippy.json"
+    },
+    {
+        "name": "DST",
+        "description": "DST for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DST.txt"
+    },
+    {
+        "name": "DxAllBlackSkull",
+        "description": "DxAllBlackSkull for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxAllBlackSkull.txt"
+    },
+    {
+        "name": "DxAllGreen",
+        "description": "DxAllGreen for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxAllGreen.txt"
+    },
+    {
+        "name": "DxAllWhiteDunc",
+        "description": "DxAllWhiteDunc for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxAllWhiteDunc.txt"
+    },
+    {
+        "name": "DxAqua",
+        "description": "DxAqua for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxAqua.txt"
+    },
+    {
+        "name": "DxBase5",
+        "description": "DxBase5 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBase5.txt"
+    },
+    {
+        "name": "DxBeigeSkull",
+        "description": "DxBeigeSkull for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBeigeSkull.txt"
+    },
+    {
+        "name": "DxBeigeWhite",
+        "description": "DxBeigeWhite for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBeigeWhite.txt"
+    },
+    {
+        "name": "DxBinMan",
+        "description": "DxBinMan for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBinMan.txt"
+    },
+    {
+        "name": "DxBlackChrome",
+        "description": "DxBlackChrome for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBlackChrome.txt"
+    },
+    {
+        "name": "DxBlackHelmet",
+        "description": "DxBlackHelmet for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBlackHelmet.txt"
+    },
+    {
+        "name": "DxBlackPinkBP",
+        "description": "DxBlackPinkBP for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBlackPinkBP.txt"
+    },
+    {
+        "name": "DxBlackRed",
+        "description": "DxBlackRed for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBlackRed.txt"
+    },
+    {
+        "name": "DxBlackTryhard",
+        "description": "DxBlackTryhard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBlackTryhard.txt"
+    },
+    {
+        "name": "DxBlackWhiteMask",
+        "description": "DxBlackWhiteMask for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBlackWhiteMask.txt"
+    },
+    {
+        "name": "DxBlackYellowOrange",
+        "description": "DxBlackYellowOrange for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBlackYellowOrange.txt"
+    },
+    {
+        "name": "DxBlueLightSkull",
+        "description": "DxBlueLightSkull for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBlueLightSkull.txt"
+    },
+    {
+        "name": "DxBlueRacer",
+        "description": "DxBlueRacer for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBlueRacer.txt"
+    },
+    {
+        "name": "DxBlueSkull",
+        "description": "DxBlueSkull for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBlueSkull.txt"
+    },
+    {
+        "name": "DxBlueWhiteRed",
+        "description": "DxBlueWhiteRed for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxBlueWhiteRed.txt"
+    },
+    {
+        "name": "DxGreenBlack",
+        "description": "DxGreenBlack for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxGreenBlack.txt"
+    },
+    {
+        "name": "DxGreenSkull",
+        "description": "DxGreenSkull for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxGreenSkull.txt"
+    },
+    {
+        "name": "DxGreenSpace",
+        "description": "DxGreenSpace for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxGreenSpace.txt"
+    },
+    {
+        "name": "DxGreySkull",
+        "description": "DxGreySkull for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxGreySkull.txt"
+    },
+    {
+        "name": "DxGreyYellow",
+        "description": "DxGreyYellow for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxGreyYellow.txt"
+    },
+    {
+        "name": "DxMonster",
+        "description": "DxMonster for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxMonster.txt"
+    },
+    {
+        "name": "DxNavyBlue",
+        "description": "DxNavyBlue for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxNavyBlue.txt"
+    },
+    {
+        "name": "DxNeonWhite",
+        "description": "DxNeonWhite for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxNeonWhite.txt"
+    },
+    {
+        "name": "DxOrangeBlackSkull",
+        "description": "DxOrangeBlackSkull for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxOrangeBlackSkull.txt"
+    },
+    {
+        "name": "DxOrangeSkull",
+        "description": "DxOrangeSkull for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxOrangeSkull.txt"
+    },
+    {
+        "name": "DxPinkBlack",
+        "description": "DxPinkBlack for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxPinkBlack.txt"
+    },
+    {
+        "name": "DxPinkSkull",
+        "description": "DxPinkSkull for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxPinkSkull.txt"
+    },
+    {
+        "name": "DxPurpleGalaxy",
+        "description": "DxPurpleGalaxy for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxPurpleGalaxy.txt"
+    },
+    {
+        "name": "DxPurpleLights",
+        "description": "DxPurpleLights for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxPurpleLights.txt"
+    },
+    {
+        "name": "DxPurpleMask",
+        "description": "DxPurpleMask for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxPurpleMask.txt"
+    },
+    {
+        "name": "DxRabit",
+        "description": "DxRabit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxRabit.txt"
+    },
+    {
+        "name": "DxRedBlack",
+        "description": "DxRedBlack for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxRedBlack.txt"
+    },
+    {
+        "name": "DxRedBlueWhite",
+        "description": "DxRedBlueWhite for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxRedBlueWhite.txt"
+    },
+    {
+        "name": "DxRedHorns",
+        "description": "DxRedHorns for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxRedHorns.txt"
+    },
+    {
+        "name": "DxRedSkull",
+        "description": "DxRedSkull for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxRedSkull.txt"
+    },
+    {
+        "name": "DxWhiteBlack",
+        "description": "DxWhiteBlack for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxWhiteBlack.txt"
+    },
+    {
+        "name": "DxWhiteFireman",
+        "description": "DxWhiteFireman for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxWhiteFireman.txt"
+    },
+    {
+        "name": "DxWhiteRedBlack",
+        "description": "DxWhiteRedBlack for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/DxWhiteRedBlack.txt"
+    },
+    {
+        "name": "Female Bad Girl V1",
+        "description": "Female Bad Girl v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Bad Girl v1.txt"
+    },
+    {
+        "name": "Female Black Assault",
+        "description": "Female Black Assault for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Black Assault.txt"
+    },
+    {
+        "name": "Female Black Checkered Quad",
+        "description": "Female Black Checkered Quad for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Black Checkered Quad.txt"
+    },
+    {
+        "name": "Female Black Intruder",
+        "description": "Female Black Intruder for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Black Intruder.txt"
+    },
+    {
+        "name": "Female Black Laced Armor",
+        "description": "Female Black Laced Armor for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Black Laced Armor.txt"
+    },
+    {
+        "name": "Female Black Laced Outfit V2",
+        "description": "Female Black Laced Outfit v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Black Laced Outfit v2.txt"
+    },
+    {
+        "name": "Female Black Laced Outfit V3",
+        "description": "Female Black Laced Outfit v3 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Black Laced Outfit v3.txt"
+    },
+    {
+        "name": "Female Black Outfit",
+        "description": "Female Black Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Black Outfit.txt"
+    },
+    {
+        "name": "Female Black Quad",
+        "description": "Female Black Quad for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Black Quad.txt"
+    },
+    {
+        "name": "Female Blue Devil Parachute",
+        "description": "Female Blue Devil Parachute for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Blue Devil Parachute.txt"
+    },
+    {
+        "name": "Female Bullet Proof Head Only Outfit V1",
+        "description": "Female Bullet Proof Head Only Outfit v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Bullet Proof Head Only Outfit v1.txt"
+    },
+    {
+        "name": "Female Bullet Proof Head Only Outfit V2",
+        "description": "Female Bullet Proof Head Only Outfit v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Bullet Proof Head Only Outfit v2.txt"
+    },
+    {
+        "name": "Female Casual Blue",
+        "description": "Female Casual Blue for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Casual Blue.txt"
+    },
+    {
+        "name": "Female Devil Red Racer",
+        "description": "Female Devil Red Racer for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Devil Red Racer.txt"
+    },
+    {
+        "name": "Female Fire Green V1",
+        "description": "Female Fire Green v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Fire Green v1.txt"
+    },
+    {
+        "name": "Female Fire Green V2",
+        "description": "Female Fire Green v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Fire Green v2.txt"
+    },
+    {
+        "name": "Female Fire Orange V1",
+        "description": "Female Fire Orange v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Fire Orange v1.txt"
+    },
+    {
+        "name": "Female Fire Orange V2",
+        "description": "Female Fire Orange v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Fire Orange v2.txt"
+    },
+    {
+        "name": "Female Fire Pink V1",
+        "description": "Female Fire Pink v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Fire Pink v1.txt"
+    },
+    {
+        "name": "Female Fire Pink V2",
+        "description": "Female Fire Pink v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Fire Pink v2.txt"
+    },
+    {
+        "name": "Female Fire Purple V1",
+        "description": "Female Fire Purple v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Fire Purple v1.txt"
+    },
+    {
+        "name": "Female Fire Purple V2",
+        "description": "Female Fire Purple v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Fire Purple v2.txt"
+    },
+    {
+        "name": "Female Fire Red V1",
+        "description": "Female Fire Red v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Fire Red v1.txt"
+    },
+    {
+        "name": "Female Fire Red V2",
+        "description": "Female Fire Red v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Fire Red v2.txt"
+    },
+    {
+        "name": "Female Frontier Outfit",
+        "description": "Female Frontier Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Frontier Outfit.txt"
+    },
+    {
+        "name": "Female Fully Invisible Try Hard",
+        "description": "Female Fully Invisible Try Hard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Fully Invisible Try Hard.txt"
+    },
+    {
+        "name": "Female Future Orange",
+        "description": "Female Future Orange for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Future Orange.txt"
+    },
+    {
+        "name": "Female GI Jane",
+        "description": "Female GI-Jane for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female GI-Jane.txt"
+    },
+    {
+        "name": "Female Goth Chick",
+        "description": "Female Goth Chick for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Goth Chick.txt"
+    },
+    {
+        "name": "Female Green Devil Duffle",
+        "description": "Female Green Devil Duffle for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Green Devil Duffle.txt"
+    },
+    {
+        "name": "Female Green Devil Parachute",
+        "description": "Female Green Devil Parachute for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Green Devil Parachute.txt"
+    },
+    {
+        "name": "Female Green Outfit",
+        "description": "Female Green Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Green Outfit.txt"
+    },
+    {
+        "name": "Female Green Test",
+        "description": "Female Green Test for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Green Test.txt"
+    },
+    {
+        "name": "Female Head Only No Squares In Chest Outfit",
+        "description": "Female Head Only No Squares In Chest Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Head Only No Squares In Chest Outfit.txt"
+    },
+    {
+        "name": "Female Head Only No Squares",
+        "description": "Female Head Only No Squares for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Head Only No Squares.txt"
+    },
+    {
+        "name": "Female Hooker V1",
+        "description": "Female Hooker v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Hooker v1.txt"
+    },
+    {
+        "name": "Female Invisible Head Only",
+        "description": "Female Invisible Head Only for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Invisible Head Only.txt"
+    },
+    {
+        "name": "Female Invisible RetroArt",
+        "description": "Female Invisible RetroArt for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Invisible RetroArt.txt"
+    },
+    {
+        "name": "Female Invisivle Head Only",
+        "description": "Female Invisivle Head Only for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Invisivle Head Only.txt"
+    },
+    {
+        "name": "Female Laced Black Armour",
+        "description": "Female Laced Black Armour for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Laced Black Armour.txt"
+    },
+    {
+        "name": "Female Merc V1 Outfit",
+        "description": "Female Merc v1 Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Merc v1 Outfit.txt"
+    },
+    {
+        "name": "Female Naughty Devil Duffle",
+        "description": "Female Naughty Devil Duffle for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Naughty Devil Duffle.txt"
+    },
+    {
+        "name": "Female Naughty Elf V1",
+        "description": "Female Naughty Elf v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Naughty Elf v1.txt"
+    },
+    {
+        "name": "Female Naughty Elf V2",
+        "description": "Female Naughty Elf v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Naughty Elf v2.txt"
+    },
+    {
+        "name": "Female Naughty Elf",
+        "description": "Female Naughty Elf for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Naughty Elf.txt"
+    },
+    {
+        "name": "Female Nsfw Xmas",
+        "description": "female nsfw xmas for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/female nsfw xmas.txt"
+    },
+    {
+        "name": "Female Orange Assault",
+        "description": "Female Orange Assault for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Orange Assault.txt"
+    },
+    {
+        "name": "Female Orange Devil Duffle",
+        "description": "Female Orange Devil Duffle for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Orange Devil Duffle.txt"
+    },
+    {
+        "name": "Female Orange Devil Parachute",
+        "description": "Female Orange Devil Parachute for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Orange Devil Parachute.txt"
+    },
+    {
+        "name": "Female Orange Outfit",
+        "description": "Female Orange Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Orange Outfit.txt"
+    },
+    {
+        "name": "Female Pink Devil Duffle",
+        "description": "Female Pink Devil Duffle for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Devil Duffle.txt"
+    },
+    {
+        "name": "Female Pink Devil Parachute",
+        "description": "Female Pink Devil Parachute for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Devil Parachute.txt"
+    },
+    {
+        "name": "Female Pink Laced Armor Duffle Bag",
+        "description": "Female Pink Laced Armor Duffle Bag for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Laced Armor Duffle Bag.txt"
+    },
+    {
+        "name": "Female Pink Laced Armour Duffle Bag",
+        "description": "Female Pink Laced Armour Duffle Bag for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Laced Armour Duffle Bag.txt"
+    },
+    {
+        "name": "Female Pink Laced Parachute",
+        "description": "Female Pink Laced Parachute for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Laced Parachute.txt"
+    },
+    {
+        "name": "Female Pink Oufit",
+        "description": "Female Pink Oufit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Oufit.txt"
+    },
+    {
+        "name": "Female Pink Princess V1",
+        "description": "Female Pink Princess v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Princess v1.txt"
+    },
+    {
+        "name": "Female Pink Raccon Duffle Bag",
+        "description": "Female Pink Raccon Duffle Bag for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Raccon Duffle Bag.txt"
+    },
+    {
+        "name": "Female Pink Racoon",
+        "description": "Female Pink Racoon for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Racoon.txt"
+    },
+    {
+        "name": "Female Pink Soldier V1",
+        "description": "Female Pink Soldier v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Soldier v1.txt"
+    },
+    {
+        "name": "Female Pink Soldier V2",
+        "description": "Female Pink Soldier v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Soldier v2.txt"
+    },
+    {
+        "name": "Female Pink Soldier V3",
+        "description": "Female Pink Soldier v3 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Pink Soldier v3.txt"
+    },
+    {
+        "name": "Female Purple Assault",
+        "description": "Female Purple Assault for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Purple Assault.txt"
+    },
+    {
+        "name": "Female Purple Devil Duffle",
+        "description": "Female Purple Devil Duffle for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Purple Devil Duffle.txt"
+    },
+    {
+        "name": "Female Purple Devil Parachute",
+        "description": "Female Purple Devil Parachute for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Purple Devil Parachute.txt"
+    },
+    {
+        "name": "Female Purple Nipples",
+        "description": "Female Purple Nipples for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Purple Nipples.txt"
+    },
+    {
+        "name": "Female Purple Outfit",
+        "description": "Female Purple Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Purple Outfit.txt"
+    },
+    {
+        "name": "Female Real Nipples",
+        "description": "Female Real Nipples for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Real Nipples.txt"
+    },
+    {
+        "name": "Female Red Devil Duffle",
+        "description": "Female Red Devil Duffle for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Red Devil Duffle.txt"
+    },
+    {
+        "name": "Female Red Devil Parachute",
+        "description": "Female Red Devil Parachute for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Red Devil Parachute.txt"
+    },
+    {
+        "name": "Female Red Outfit",
+        "description": "Female Red Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Red Outfit.txt"
+    },
+    {
+        "name": "Female Retro Pink",
+        "description": "Female Retro Pink for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Retro Pink.txt"
+    },
+    {
+        "name": "Female Sprunk Neo Glow",
+        "description": "Female Sprunk Neo Glow for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Sprunk Neo Glow.txt"
+    },
+    {
+        "name": "Female Sprunk Neon",
+        "description": "Female Sprunk Neon for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Sprunk Neon.txt"
+    },
+    {
+        "name": "Female Stalker V1",
+        "description": "Female Stalker v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Stalker v1.txt"
+    },
+    {
+        "name": "Female Stalker V2",
+        "description": "Female Stalker v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female Stalker v2.txt"
+    },
+    {
+        "name": "Female White Devil Duffle",
+        "description": "Female White Devil Duffle for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female White Devil Duffle.txt"
+    },
+    {
+        "name": "Female White Devil Parachute",
+        "description": "Female White Devil Parachute for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female White Devil Parachute.txt"
+    },
+    {
+        "name": "Female White Nipples",
+        "description": "Female White Nipples for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female White Nipples.txt"
+    },
+    {
+        "name": "Female White Outfit",
+        "description": "Female White Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female White Outfit.txt"
+    },
+    {
+        "name": "Female",
+        "description": "female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/female.txt"
+    },
+    {
+        "name": "Female Bad Girl V1",
+        "description": "Female_Bad_Girl_v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Bad_Girl_v1.txt"
+    },
+    {
+        "name": "Female Black Assault",
+        "description": "Female_Black_Assault for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Black_Assault.txt"
+    },
+    {
+        "name": "Female Black Checkered Quad",
+        "description": "Female_Black_Checkered_Quad for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Black_Checkered_Quad.txt"
+    },
+    {
+        "name": "Female Black Outfit",
+        "description": "Female_Black_Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Black_Outfit.txt"
+    },
+    {
+        "name": "Female Black Quad",
+        "description": "Female_Black_Quad for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Black_Quad.txt"
+    },
+    {
+        "name": "Female Casual Blue",
+        "description": "Female_Casual_Blue for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Casual_Blue.txt"
+    },
+    {
+        "name": "Female GI Jane",
+        "description": "Female_GI-Jane for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_GI-Jane.txt"
+    },
+    {
+        "name": "Female Golfer",
+        "description": "Female_Golfer for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Golfer.txt"
+    },
+    {
+        "name": "Female Laced Black Armour",
+        "description": "Female_Laced_Black_Armour for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Laced_Black_Armour.txt"
+    },
+    {
+        "name": "Female Naughty Elf",
+        "description": "Female_Naughty_Elf for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Naughty_Elf.txt"
+    },
+    {
+        "name": "Female Orange Assault",
+        "description": "Female_Orange_Assault for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Orange_Assault.txt"
+    },
+    {
+        "name": "Female Pink Laced Armour Duffle Bag",
+        "description": "Female_Pink_Laced_Armour_Duffle_Bag for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Pink_Laced_Armour_Duffle_Bag.txt"
+    },
+    {
+        "name": "Female Pink Laced Parachute",
+        "description": "Female_Pink_Laced_Parachute for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Pink_Laced_Parachute.txt"
+    },
+    {
+        "name": "Female Pink Raccon Duffle Bag",
+        "description": "Female_Pink_Raccon_Duffle_Bag for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Pink_Raccon_Duffle_Bag.txt"
+    },
+    {
+        "name": "Female Pink Racoon",
+        "description": "Female_Pink_Racoon for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Pink_Racoon.txt"
+    },
+    {
+        "name": "Female Purple Assault",
+        "description": "Female_Purple_Assault for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Female_Purple_Assault.txt"
+    },
+    {
+        "name": "Fire Man",
+        "description": "fire man for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/fire man.json"
+    },
+    {
+        "name": "Firefighter",
+        "description": "Firefighter for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Firefighter.txt"
+    },
+    {
+        "name": "FranklinHitman",
+        "description": "FranklinHitman for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/FranklinHitman.txt"
+    },
+    {
+        "name": "Franklin ",
+        "description": "Franklin_ for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Franklin_.txt"
+    },
+    {
+        "name": "Freddy Krueger",
+        "description": "Freddy Krueger for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Freddy Krueger.txt"
+    },
+    {
+        "name": "F Blue Gang",
+        "description": "F_Blue_Gang for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/F_Blue_Gang.txt"
+    },
+    {
+        "name": "F Orange And White",
+        "description": "F_Orange_and_White for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/F_Orange_and_White.txt"
+    },
+    {
+        "name": "F Potato Drip",
+        "description": "F_Potato_Drip for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/F_Potato_Drip.txt"
+    },
+    {
+        "name": "F Skull Tryhard",
+        "description": "F_Skull_Tryhard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/F_Skull_Tryhard.txt"
+    },
+    {
+        "name": "F Yellow Drip",
+        "description": "F_Yellow_Drip for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/F_Yellow_Drip.txt"
+    },
+    {
+        "name": "GALAXY",
+        "description": "GALAXY for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/GALAXY.txt"
+    },
+    {
+        "name": "Galaxy 1",
+        "description": "Galaxy_1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Galaxy_1.txt"
+    },
+    {
+        "name": "Gardenpants Female",
+        "description": "gardenpants female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/gardenpants female.txt"
+    },
+    {
+        "name": "Gardenpants",
+        "description": "gardenpants for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/gardenpants.txt"
+    },
+    {
+        "name": "Ghillie Male",
+        "description": "ghillie male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/ghillie male.txt"
+    },
+    {
+        "name": "Gold Modder",
+        "description": "Gold Modder for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Gold Modder.txt"
+    },
+    {
+        "name": "Goth Fit",
+        "description": "goth fit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/goth fit.txt"
+    },
+    {
+        "name": "Green Female (2)",
+        "description": "green female (2) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/green female (2).txt"
+    },
+    {
+        "name": "Green Female",
+        "description": "green female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/green female.txt"
+    },
+    {
+        "name": "Green Modder",
+        "description": "Green Modder for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Green Modder.txt"
+    },
+    {
+        "name": "Green Outfit",
+        "description": "Green Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Green Outfit.txt"
+    },
+    {
+        "name": "Green Space Ranger",
+        "description": "green space ranger for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/green space ranger.txt"
+    },
+    {
+        "name": "GREEN TRON",
+        "description": "GREEN TRON for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/GREEN TRON.json"
+    },
+    {
+        "name": "Green",
+        "description": "green for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/green.json"
+    },
+    {
+        "name": "Green",
+        "description": "Green for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Green.txt"
+    },
+    {
+        "name": "GreenTrhrd",
+        "description": "GreenTrhrd for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/GreenTrhrd.txt"
+    },
+    {
+        "name": "Green Space Ranger Outfit",
+        "description": "Green_space_ranger_outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Green_space_ranger_outfit.txt"
+    },
+    {
+        "name": "Grey",
+        "description": "Grey for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Grey.txt"
+    },
+    {
+        "name": "Hakuchoo",
+        "description": "hakuchoo for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/hakuchoo.txt"
+    },
+    {
+        "name": "Halloween Rng",
+        "description": "halloween_rng for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/halloween_rng.txt"
+    },
+    {
+        "name": "HallowOut",
+        "description": "hallowOut for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/hallowOut.txt"
+    },
+    {
+        "name": "Houndwolf Female",
+        "description": "houndwolf female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/houndwolf female.txt"
+    },
+    {
+        "name": "Hound Wolf",
+        "description": "Hound_Wolf for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Hound_Wolf.txt"
+    },
+    {
+        "name": "IAA",
+        "description": "IAA for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/IAA.txt"
+    },
+    {
+        "name": "I Need Help",
+        "description": "i_need_help for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/i_need_help.txt"
+    },
+    {
+        "name": "Japanese Black",
+        "description": "Japanese_black for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Japanese_black.txt"
+    },
+    {
+        "name": "Jesus Male",
+        "description": "jesus male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/jesus male.txt"
+    },
+    {
+        "name": "Jesus",
+        "description": "Jesus for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Jesus.txt"
+    },
+    {
+        "name": "Joker Male",
+        "description": "joker male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/joker male.txt"
+    },
+    {
+        "name": "Joker",
+        "description": "Joker for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Joker.txt"
+    },
+    {
+        "name": "Joker1",
+        "description": "Joker1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Joker1.txt"
+    },
+    {
+        "name": "Juggernaut",
+        "description": "juggernaut for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/juggernaut.txt"
+    },
+    {
+        "name": "KGB Black",
+        "description": "KGB_Black for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/KGB_Black.txt"
+    },
+    {
+        "name": "Kifflom",
+        "description": "kifflom for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/kifflom.json"
+    },
+    {
+        "name": "Luigi Male",
+        "description": "luigi male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/luigi male.txt"
+    },
+    {
+        "name": "Mafia",
+        "description": "Mafia for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Mafia.txt"
+    },
+    {
+        "name": "Male Acult Balls",
+        "description": "Male Acult Balls for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Acult Balls.txt"
+    },
+    {
+        "name": "Male Acult01 BlackBalls",
+        "description": "Male Acult01 BlackBalls for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Acult01 BlackBalls.txt"
+    },
+    {
+        "name": "Male Acult01 No Tattoos",
+        "description": "Male Acult01 No Tattoos for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Acult01 No Tattoos.txt"
+    },
+    {
+        "name": "Male Art NightLife",
+        "description": "Male Art NightLife for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Art NightLife.txt"
+    },
+    {
+        "name": "Male Art SunnySide",
+        "description": "Male Art SunnySide for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Art SunnySide.txt"
+    },
+    {
+        "name": "Male BadAss Biker",
+        "description": "Male BadAss Biker for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male BadAss Biker.txt"
+    },
+    {
+        "name": "Male Black & Blue Fusion Outfit",
+        "description": "Male Black & Blue Fusion Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black & Blue Fusion Outfit.txt"
+    },
+    {
+        "name": "Male Black & Red Fusion Outfit",
+        "description": "Male Black & Red Fusion Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black & Red Fusion Outfit.txt"
+    },
+    {
+        "name": "Male Black & Yellow Devil V1",
+        "description": "Male Black & Yellow Devil v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black & Yellow Devil v1.txt"
+    },
+    {
+        "name": "Male Black & Yellow V1",
+        "description": "Male Black & Yellow v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black & Yellow v1.txt"
+    },
+    {
+        "name": "Male Black Armor Ranger",
+        "description": "Male Black Armor Ranger for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black Armor Ranger.txt"
+    },
+    {
+        "name": "Male Black Armor Thug",
+        "description": "Male Black Armor Thug for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black Armor Thug.txt"
+    },
+    {
+        "name": "Male Black Metal",
+        "description": "Male Black Metal for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black Metal.txt"
+    },
+    {
+        "name": "Male Black Thug",
+        "description": "Male Black Thug for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black Thug.txt"
+    },
+    {
+        "name": "Male Black TryHard",
+        "description": "Male Black TryHard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black TryHard.txt"
+    },
+    {
+        "name": "Male Black   Blue Fusion Outfit(1)",
+        "description": "Male Black _ Blue Fusion Outfit(1) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black _ Blue Fusion Outfit(1).txt"
+    },
+    {
+        "name": "Male Black   Blue Fusion Outfit",
+        "description": "Male Black _ Blue Fusion Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black _ Blue Fusion Outfit.txt"
+    },
+    {
+        "name": "Male Black   Red Fashion Outfit(1)",
+        "description": "Male Black _ Red Fashion Outfit(1) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black _ Red Fashion Outfit(1).txt"
+    },
+    {
+        "name": "Male Black   Red Fashion Outfit",
+        "description": "Male Black _ Red Fashion Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Black _ Red Fashion Outfit.txt"
+    },
+    {
+        "name": "Male Bloody Zombie",
+        "description": "Male Bloody Zombie for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Bloody Zombie.txt"
+    },
+    {
+        "name": "Male Bullet Proof Head Only",
+        "description": "Male Bullet Proof Head Only for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Bullet Proof Head Only.txt"
+    },
+    {
+        "name": "Male BulletProofHeadOnly",
+        "description": "Male BulletProofHeadOnly for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male BulletProofHeadOnly.txt"
+    },
+    {
+        "name": "Male Captain V1",
+        "description": "Male Captain v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Captain v1.txt"
+    },
+    {
+        "name": "Male Captain V2",
+        "description": "Male Captain v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Captain v2.txt"
+    },
+    {
+        "name": "Male Chameleon Outfit",
+        "description": "Male Chameleon Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Chameleon Outfit.txt"
+    },
+    {
+        "name": "Male CheckMate",
+        "description": "Male CheckMate for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male CheckMate.txt"
+    },
+    {
+        "name": "Male Cola Red V1",
+        "description": "Male Cola Red v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Cola Red v1.txt"
+    },
+    {
+        "name": "Male Cola Red V2",
+        "description": "Male Cola Red v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Cola Red v2.txt"
+    },
+    {
+        "name": "Male CowBoy V1",
+        "description": "Male CowBoy v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male CowBoy v1.txt"
+    },
+    {
+        "name": "Male Cowboy V2",
+        "description": "Male Cowboy v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Cowboy v2.txt"
+    },
+    {
+        "name": "Male Creeper",
+        "description": "Male Creeper for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Creeper.txt"
+    },
+    {
+        "name": "Male Crooked Devil",
+        "description": "Male Crooked Devil for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Crooked Devil.txt"
+    },
+    {
+        "name": "Male Dark Realm",
+        "description": "Male Dark Realm for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Dark Realm.txt"
+    },
+    {
+        "name": "Male East Side Thug",
+        "description": "Male East Side Thug for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male East Side Thug.txt"
+    },
+    {
+        "name": "Male EastSideThug",
+        "description": "Male EastSideThug for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male EastSideThug.txt"
+    },
+    {
+        "name": "Male Fire Green V1",
+        "description": "Male Fire Green v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Fire Green v1.txt"
+    },
+    {
+        "name": "Male Fire Green V2",
+        "description": "Male Fire Green v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Fire Green v2.txt"
+    },
+    {
+        "name": "Male Fire Orange V1",
+        "description": "Male Fire Orange v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Fire Orange v1.txt"
+    },
+    {
+        "name": "Male Fire Orange V2",
+        "description": "Male Fire Orange v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Fire Orange v2.txt"
+    },
+    {
+        "name": "Male Fire Pink V1",
+        "description": "Male Fire Pink v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Fire Pink v1.txt"
+    },
+    {
+        "name": "Male Fire Pink V2",
+        "description": "Male Fire Pink v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Fire Pink v2.txt"
+    },
+    {
+        "name": "Male Fire Purple V1",
+        "description": "Male Fire Purple v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Fire Purple v1.txt"
+    },
+    {
+        "name": "Male Fire Purple V2",
+        "description": "Male Fire Purple v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Fire Purple v2.txt"
+    },
+    {
+        "name": "Male Fire Red V1",
+        "description": "Male Fire Red v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Fire Red v1.txt"
+    },
+    {
+        "name": "Male Fire Red V2",
+        "description": "Male Fire Red v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Fire Red v2.txt"
+    },
+    {
+        "name": "Male Franklin Head Only",
+        "description": "Male Franklin Head Only for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Franklin Head Only.txt"
+    },
+    {
+        "name": "Male Frontier Outfit",
+        "description": "Male Frontier Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Frontier Outfit.txt"
+    },
+    {
+        "name": "Male Fully Invisible With Mask ",
+        "description": "Male Fully Invisible With Mask  for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Fully Invisible With Mask .txt"
+    },
+    {
+        "name": "Male Gang Banger Black Outfit",
+        "description": "Male Gang Banger Black Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Gang Banger Black Outfit.txt"
+    },
+    {
+        "name": "Male Gang Banger Outfit",
+        "description": "Male Gang Banger Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Gang Banger Outfit.txt"
+    },
+    {
+        "name": "Male Gang Banger White Outfit",
+        "description": "Male Gang Banger White Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Gang Banger White Outfit.txt"
+    },
+    {
+        "name": "Male George Washington",
+        "description": "Male George Washington for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male George Washington.txt"
+    },
+    {
+        "name": "Male German Rider",
+        "description": "Male German Rider for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male German Rider.txt"
+    },
+    {
+        "name": "Male German V1",
+        "description": "Male German v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male German v1.txt"
+    },
+    {
+        "name": "Male Green Pulse",
+        "description": "Male Green Pulse for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Green Pulse.txt"
+    },
+    {
+        "name": "Male Green Ranger",
+        "description": "Male Green Ranger for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Green Ranger.txt"
+    },
+    {
+        "name": "Male Green Strapz",
+        "description": "Male Green Strapz for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Green Strapz.txt"
+    },
+    {
+        "name": "Male Grey Skull Armor Outfit",
+        "description": "Male Grey Skull Armor Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Grey Skull Armor Outfit.txt"
+    },
+    {
+        "name": "Male Halloween V1",
+        "description": "Male Halloween v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Halloween v1.txt"
+    },
+    {
+        "name": "Male Halloween V2",
+        "description": "Male Halloween v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Halloween v2.txt"
+    },
+    {
+        "name": "Male Halloween V3",
+        "description": "Male Halloween v3 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Halloween v3.txt"
+    },
+    {
+        "name": "Male Hang Man V1",
+        "description": "Male Hang Man v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Hang Man v1.txt"
+    },
+    {
+        "name": "Male Hang Man V2",
+        "description": "Male Hang Man v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Hang Man v2.txt"
+    },
+    {
+        "name": "Male HangMan",
+        "description": "Male HangMan for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male HangMan.txt"
+    },
+    {
+        "name": "Male Invisible Outfit",
+        "description": "Male Invisible Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Invisible Outfit.txt"
+    },
+    {
+        "name": "Male Invisible RetroArt V1",
+        "description": "Male Invisible RetroArt v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Invisible RetroArt v1.txt"
+    },
+    {
+        "name": "Male Invisible RetroArt V2",
+        "description": "Male Invisible RetroArt v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Invisible RetroArt v2.txt"
+    },
+    {
+        "name": "Male Invisible RetroArt",
+        "description": "Male Invisible RetroArt for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Invisible RetroArt.txt"
+    },
+    {
+        "name": "Male Invisible Try Hard",
+        "description": "Male Invisible Try Hard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Invisible Try Hard.txt"
+    },
+    {
+        "name": "Male John Newman",
+        "description": "Male John Newman for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male John Newman.txt"
+    },
+    {
+        "name": "Male Mad Max",
+        "description": "Male Mad Max for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Mad Max.txt"
+    },
+    {
+        "name": "Male Max Red V1",
+        "description": "Male Max Red v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Max Red v1.txt"
+    },
+    {
+        "name": "Male Max Red V2",
+        "description": "Male Max Red v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Max Red v2.txt"
+    },
+    {
+        "name": "Male Naughty Dr",
+        "description": "Male Naughty Dr for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Naughty Dr.txt"
+    },
+    {
+        "name": "Male No Body Try Hard",
+        "description": "Male No Body Try Hard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male No Body Try Hard.txt"
+    },
+    {
+        "name": "Male No Body With 2 Squares In Chest Try Hard",
+        "description": "Male No Body With 2 Squares In Chest Try Hard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male No Body With 2 Squares In Chest Try Hard.txt"
+    },
+    {
+        "name": "Male NoBody 2 Squares",
+        "description": "Male NoBody 2 Squares for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male NoBody 2 Squares.txt"
+    },
+    {
+        "name": "Male OldMan",
+        "description": "Male OldMan for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male OldMan.txt"
+    },
+    {
+        "name": "Male Orange V1",
+        "description": "Male Orange v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Orange v1.txt"
+    },
+    {
+        "name": "Male Orange V2",
+        "description": "Male Orange v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Orange v2.txt"
+    },
+    {
+        "name": "Male Orange V3",
+        "description": "Male Orange v3 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Orange v3.txt"
+    },
+    {
+        "name": "Male Outfit Orange V1",
+        "description": "Male Outfit Orange v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Outfit Orange v1.txt"
+    },
+    {
+        "name": "Male Outfit Orange V2",
+        "description": "Male Outfit Orange v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Outfit Orange v2.txt"
+    },
+    {
+        "name": "Male Outfit Orange V3",
+        "description": "Male Outfit Orange v3 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Outfit Orange v3.txt"
+    },
+    {
+        "name": "Male PS3 Classic No Chest Try Hard",
+        "description": "Male PS3 Classic No Chest Try Hard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male PS3 Classic No Chest Try Hard.txt"
+    },
+    {
+        "name": "Male PS3 Classic No Chest TryHard Outfit",
+        "description": "Male PS3 Classic No Chest TryHard Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male PS3 Classic No Chest TryHard Outfit.txt"
+    },
+    {
+        "name": "Male PvP Blue",
+        "description": "Male PvP Blue for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male PvP Blue.txt"
+    },
+    {
+        "name": "Male PvP Orange",
+        "description": "Male PvP Orange for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male PvP Orange.txt"
+    },
+    {
+        "name": "Male PvP Red",
+        "description": "Male PvP Red for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male PvP Red.txt"
+    },
+    {
+        "name": "Male Red Biker V1",
+        "description": "Male Red Biker v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Red Biker v1.txt"
+    },
+    {
+        "name": "Male Red Gang",
+        "description": "Male Red Gang for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Red Gang.txt"
+    },
+    {
+        "name": "Male Red Outfit V1",
+        "description": "Male Red Outfit v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Red Outfit v1.txt"
+    },
+    {
+        "name": "Male Red Outfit V2",
+        "description": "Male Red Outfit v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Red Outfit v2.txt"
+    },
+    {
+        "name": "Male Shirtless Cowboy",
+        "description": "Male Shirtless Cowboy for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Shirtless Cowboy.txt"
+    },
+    {
+        "name": "Male SkaterX",
+        "description": "Male SkaterX for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male SkaterX.txt"
+    },
+    {
+        "name": "Male Sprunk Neo Glow",
+        "description": "Male Sprunk Neo Glow for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Sprunk Neo Glow.txt"
+    },
+    {
+        "name": "Male Swat Police V1",
+        "description": "Male Swat Police v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Swat Police v1.txt"
+    },
+    {
+        "name": "Male Swat Police V2",
+        "description": "Male Swat Police v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Swat Police v2.txt"
+    },
+    {
+        "name": "Male White & Black V1",
+        "description": "Male White & Black v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male White & Black v1.txt"
+    },
+    {
+        "name": "Male White Skin Mode",
+        "description": "Male White Skin Mode for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male White Skin Mode.txt"
+    },
+    {
+        "name": "Male Yellow Jacket V1",
+        "description": "Male Yellow Jacket v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Yellow Jacket v1.txt"
+    },
+    {
+        "name": "Male Yellow Jacket V2",
+        "description": "Male Yellow Jacket v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male Yellow Jacket v2.txt"
+    },
+    {
+        "name": "Male Black  Blue Fusion Outfit",
+        "description": "Male_Black__Blue_Fusion_Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male_Black__Blue_Fusion_Outfit.txt"
+    },
+    {
+        "name": "Male Black  Red Fusion Outfit",
+        "description": "Male_Black__Red_Fusion_Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male_Black__Red_Fusion_Outfit.txt"
+    },
+    {
+        "name": "Male Cowboy V2",
+        "description": "Male_Cowboy_v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male_Cowboy_v2.txt"
+    },
+    {
+        "name": "Male Gang Banger Black Outfit",
+        "description": "Male_Gang_Banger_Black_Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male_Gang_Banger_Black_Outfit.txt"
+    },
+    {
+        "name": "Male Gang Banger Outfit",
+        "description": "Male_Gang_Banger_Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male_Gang_Banger_Outfit.txt"
+    },
+    {
+        "name": "Male No Body Try Hard",
+        "description": "Male_No_Body_Try_Hard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male_No_Body_Try_Hard.txt"
+    },
+    {
+        "name": "Male PS3 Classic No Chest TryHard Outfit",
+        "description": "Male_PS3_Classic_No_Chest_TryHard_Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Male_PS3_Classic_No_Chest_TryHard_Outfit.txt"
+    },
+    {
+        "name": "Mario Male",
+        "description": "mario male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/mario male.txt"
+    },
+    {
+        "name": "Midnight Drift Skyline R34",
+        "description": "midnight_drift_skyline_r34 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/midnight_drift_skyline_r34.txt"
+    },
+    {
+        "name": "Military Male",
+        "description": "military male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/military male.txt"
+    },
+    {
+        "name": "Military Desert",
+        "description": "Military_desert for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Military_desert.txt"
+    },
+    {
+        "name": "Military Ghillie Suit",
+        "description": "Military_ghillie_suit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Military_ghillie_suit.txt"
+    },
+    {
+        "name": "Military Heavy F",
+        "description": "Military_Heavy_F for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Military_Heavy_F.txt"
+    },
+    {
+        "name": "Military Winter",
+        "description": "Military_winter for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Military_winter.txt"
+    },
+    {
+        "name": "Militia",
+        "description": "Militia for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Militia.txt"
+    },
+    {
+        "name": "MoneyHeistM",
+        "description": "MoneyHeistM for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/MoneyHeistM.txt"
+    },
+    {
+        "name": "Money Heist W",
+        "description": "Money_Heist_W for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Money_Heist_W.txt"
+    },
+    {
+        "name": "Naked Candy",
+        "description": "naked candy for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/naked candy.txt"
+    },
+    {
+        "name": "Neo Glow Female",
+        "description": "neo glow female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/neo glow female.txt"
+    },
+    {
+        "name": "Neon Male",
+        "description": "neon male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/neon male.txt"
+    },
+    {
+        "name": "Neon Punk",
+        "description": "Neon_Punk for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Neon_Punk.txt"
+    },
+    {
+        "name": "Ninja",
+        "description": "Ninja for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Ninja.txt"
+    },
+    {
+        "name": "No Body Female",
+        "description": "no body female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/no body female.txt"
+    },
+    {
+        "name": "Noose",
+        "description": "Noose for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Noose.txt"
+    },
+    {
+        "name": "Nude",
+        "description": "nude for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/nude.txt"
+    },
+    {
+        "name": "Off White",
+        "description": "Off-White for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Off-White.txt"
+    },
+    {
+        "name": "Orange Duffy",
+        "description": "orange duffy for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/orange duffy.json"
+    },
+    {
+        "name": "Orange Female (2)",
+        "description": "orange female (2) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/orange female (2).txt"
+    },
+    {
+        "name": "Orange Female",
+        "description": "orange female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/orange female.txt"
+    },
+    {
+        "name": "Orange Outfit",
+        "description": "Orange Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Orange Outfit.txt"
+    },
+    {
+        "name": "Orange",
+        "description": "Orange for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Orange.txt"
+    },
+    {
+        "name": "ORANGE 1",
+        "description": "ORANGE_1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/ORANGE_1.txt"
+    },
+    {
+        "name": "ORANGE 2 (1)",
+        "description": "ORANGE_2 (1) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/ORANGE_2 (1).txt"
+    },
+    {
+        "name": "ORANGE 2",
+        "description": "ORANGE_2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/ORANGE_2.txt"
+    },
+    {
+        "name": "Orange Tryhard",
+        "description": "orange_tryhard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/orange_tryhard.txt"
+    },
+    {
+        "name": "Outfit By Flo",
+        "description": "outfit by flo for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/outfit by flo.json"
+    },
+    {
+        "name": "Outfit NOOSE",
+        "description": "Outfit_NOOSE for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Outfit_NOOSE.txt"
+    },
+    {
+        "name": "Pedovan",
+        "description": "pedovan for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/pedovan.txt"
+    },
+    {
+        "name": "Personalgraypunk",
+        "description": "personalgraypunk for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/personalgraypunk.txt"
+    },
+    {
+        "name": "Phantom Pirate",
+        "description": "Phantom_Pirate for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Phantom_Pirate.txt"
+    },
+    {
+        "name": "PINK (1)",
+        "description": "PINK (1) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/PINK (1).txt"
+    },
+    {
+        "name": "Pink Duffy",
+        "description": "pink duffy for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/pink duffy.json"
+    },
+    {
+        "name": "Pink Female (2)",
+        "description": "pink female (2) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/pink female (2).txt"
+    },
+    {
+        "name": "Pink Female TryH",
+        "description": "Pink Female TryH for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Pink Female TryH.txt"
+    },
+    {
+        "name": "Pink Female",
+        "description": "pink female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/pink female.txt"
+    },
+    {
+        "name": "Pink Laced Armour Duffle Female",
+        "description": "pink laced armour duffle female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/pink laced armour duffle female.txt"
+    },
+    {
+        "name": "Pink Oufit",
+        "description": "Pink Oufit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Pink Oufit.txt"
+    },
+    {
+        "name": "Pink Racoon Female",
+        "description": "pink racoon female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/pink racoon female.txt"
+    },
+    {
+        "name": "Pink Retro Female",
+        "description": "pink retro female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/pink retro female.txt"
+    },
+    {
+        "name": "Pink",
+        "description": "Pink for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Pink.txt"
+    },
+    {
+        "name": "Pinkblink",
+        "description": "pinkblink for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/pinkblink.txt"
+    },
+    {
+        "name": "PinkIday",
+        "description": "PinkIday for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/PinkIday.txt"
+    },
+    {
+        "name": "Pinkishblue   Copy",
+        "description": "Pinkishblue - Copy for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Pinkishblue - Copy.txt"
+    },
+    {
+        "name": "Pinkishblue",
+        "description": "Pinkishblue for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Pinkishblue.txt"
+    },
+    {
+        "name": "Pinkw",
+        "description": "pinkw for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/pinkw.txt"
+    },
+    {
+        "name": "PINK Bikini",
+        "description": "PINK_Bikini for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/PINK_Bikini.txt"
+    },
+    {
+        "name": "Pink Cop",
+        "description": "pink_cop for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/pink_cop.txt"
+    },
+    {
+        "name": "PINK EVIL",
+        "description": "PINK_EVIL for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/PINK_EVIL.txt"
+    },
+    {
+        "name": "Pirate Male",
+        "description": "pirate male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/pirate male.txt"
+    },
+    {
+        "name": "Police Male",
+        "description": "police male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/police male.txt"
+    },
+    {
+        "name": "Police",
+        "description": "police for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/police.txt"
+    },
+    {
+        "name": "Police Female",
+        "description": "Police_Female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Police_Female.txt"
+    },
+    {
+        "name": "Police Male",
+        "description": "Police_Male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Police_Male.txt"
+    },
+    {
+        "name": "Purp",
+        "description": "Purp for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Purp.txt"
+    },
+    {
+        "name": "Purple Female (2)",
+        "description": "purple female (2) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/purple female (2).txt"
+    },
+    {
+        "name": "Purple Female",
+        "description": "purple female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/purple female.txt"
+    },
+    {
+        "name": "Purple Outfit",
+        "description": "Purple Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Purple Outfit.txt"
+    },
+    {
+        "name": "Purple",
+        "description": "purple for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/purple.json"
+    },
+    {
+        "name": "Purple",
+        "description": "purple for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/purple.txt"
+    },
+    {
+        "name": "PURPLE TRY HARD",
+        "description": "PURPLE_TRY_HARD for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/PURPLE_TRY_HARD.txt"
+    },
+    {
+        "name": "Racing",
+        "description": "Racing for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Racing.txt"
+    },
+    {
+        "name": "Ready To Fight",
+        "description": "Ready_to_Fight for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Ready_to_Fight.txt"
+    },
+    {
+        "name": "Red And Black TH Male",
+        "description": "red and black TH male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/red and black TH male.txt"
+    },
+    {
+        "name": "Red Female (2)",
+        "description": "red female (2) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/red female (2).txt"
+    },
+    {
+        "name": "Red Female",
+        "description": "red female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/red female.txt"
+    },
+    {
+        "name": "Red Outfit",
+        "description": "Red Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Red Outfit.txt"
+    },
+    {
+        "name": "RED SUITY",
+        "description": "RED SUITY for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/RED SUITY.json"
+    },
+    {
+        "name": "Red",
+        "description": "red for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/red.json"
+    },
+    {
+        "name": "Red",
+        "description": "red for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/red.txt"
+    },
+    {
+        "name": "Red Coat",
+        "description": "red_coat for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/red_coat.txt"
+    },
+    {
+        "name": "RED EVIL",
+        "description": "RED_EVIL for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/RED_EVIL.txt"
+    },
+    {
+        "name": "Red White",
+        "description": "red_white for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/red_white.txt"
+    },
+    {
+        "name": "Retro Female",
+        "description": "retro female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/retro female.txt"
+    },
+    {
+        "name": "RngTrhrd",
+        "description": "RngTrhrd for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/RngTrhrd.txt"
+    },
+    {
+        "name": "Sack Slasher",
+        "description": "Sack_Slasher for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Sack_Slasher.txt"
+    },
+    {
+        "name": "Santa Good",
+        "description": "Santa_good for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Santa_good.txt"
+    },
+    {
+        "name": "Shadow Company",
+        "description": "Shadow_company for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Shadow_company.txt"
+    },
+    {
+        "name": "SK",
+        "description": "SK for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/SK.txt"
+    },
+    {
+        "name": "Sky Supergirl",
+        "description": "Sky-Supergirl for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Sky-Supergirl.txt"
+    },
+    {
+        "name": "Snowy Military",
+        "description": "Snowy_military for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Snowy_military.txt"
+    },
+    {
+        "name": "Space Female",
+        "description": "space female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/space female.txt"
+    },
+    {
+        "name": "SPACE",
+        "description": "SPACE for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/SPACE.txt"
+    },
+    {
+        "name": "SpaceNib",
+        "description": "SpaceNib for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/SpaceNib.txt"
+    },
+    {
+        "name": "Sus Mankan",
+        "description": "sus_mankan for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/sus_mankan.txt"
+    },
+    {
+        "name": "Tan",
+        "description": "Tan for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Tan.txt"
+    },
+    {
+        "name": "Techwear",
+        "description": "techwear for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/techwear.txt"
+    },
+    {
+        "name": "Tennis Female",
+        "description": "tennis female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/tennis female.txt"
+    },
+    {
+        "name": "Tennis Girl",
+        "description": "Tennis Girl for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Tennis Girl.txt"
+    },
+    {
+        "name": "Teplak",
+        "description": "teplak for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/teplak.txt"
+    },
+    {
+        "name": "Topless",
+        "description": "Topless for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Topless.txt"
+    },
+    {
+        "name": "Tron Female",
+        "description": "tron female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/tron female.txt"
+    },
+    {
+        "name": "Tron1",
+        "description": "Tron1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Tron1.txt"
+    },
+    {
+        "name": "Tryhard",
+        "description": "Tryhard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Tryhard.txt"
+    },
+    {
+        "name": "TryhardPurplefemale",
+        "description": "TryhardPurplefemale for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/TryhardPurplefemale.txt"
+    },
+    {
+        "name": "Tryhard Red And Black V1",
+        "description": "Tryhard_Red_and_Black_v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Tryhard_Red_and_Black_v1.txt"
+    },
+    {
+        "name": "Tutti Frutti V2",
+        "description": "Tutti-Frutti V2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Tutti-Frutti V2.txt"
+    },
+    {
+        "name": "Tutti Frutti",
+        "description": "Tutti-frutti for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Tutti-frutti.txt"
+    },
+    {
+        "name": "V1",
+        "description": "v1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/v1.txt"
+    },
+    {
+        "name": "V2",
+        "description": "v2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/v2.txt"
+    },
+    {
+        "name": "Verano Blanco",
+        "description": "Verano_blanco for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Verano_blanco.txt"
+    },
+    {
+        "name": "Violet",
+        "description": "Violet for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Violet.txt"
+    },
+    {
+        "name": "Wario",
+        "description": "wario for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/wario.txt"
+    },
+    {
+        "name": "Weirdpink",
+        "description": "weirdpink for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/weirdpink.txt"
+    },
+    {
+        "name": "White (1)",
+        "description": "white (1) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/white (1).txt"
+    },
+    {
+        "name": "White And Pink Male",
+        "description": "white and pink male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/white and pink male.txt"
+    },
+    {
+        "name": "White Female (2)",
+        "description": "white female (2) for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/white female (2).txt"
+    },
+    {
+        "name": "White Female",
+        "description": "white female for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/white female.txt"
+    },
+    {
+        "name": "White Male",
+        "description": "white male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/white male.txt"
+    },
+    {
+        "name": "White Outfit",
+        "description": "White Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/White Outfit.txt"
+    },
+    {
+        "name": "White TH Male",
+        "description": "white TH male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/white TH male.txt"
+    },
+    {
+        "name": "White Tryhard",
+        "description": "white tryhard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/white tryhard.json"
+    },
+    {
+        "name": "WHITE YETI",
+        "description": "WHITE YETI for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE YETI.json"
+    },
+    {
+        "name": "White Outfit",
+        "description": "White-Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/White-Outfit.txt"
+    },
+    {
+        "name": "White",
+        "description": "white for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/white.json"
+    },
+    {
+        "name": "White",
+        "description": "White for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/White.txt"
+    },
+    {
+        "name": "WhiteBeast",
+        "description": "WhiteBeast for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WhiteBeast.txt"
+    },
+    {
+        "name": "WhiteCheckered",
+        "description": "WhiteCheckered for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WhiteCheckered.txt"
+    },
+    {
+        "name": "Whitee",
+        "description": "whitee for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/whitee.json"
+    },
+    {
+        "name": "Whitetreehard",
+        "description": "whitetreehard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/whitetreehard.txt"
+    },
+    {
+        "name": "WHITE 1",
+        "description": "WHITE_1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE_1.txt"
+    },
+    {
+        "name": "WHITE 2",
+        "description": "WHITE_2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE_2.txt"
+    },
+    {
+        "name": "WHITE 3",
+        "description": "WHITE_3 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE_3.txt"
+    },
+    {
+        "name": "WHITE 4",
+        "description": "WHITE_4 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE_4.txt"
+    },
+    {
+        "name": "WHITE 5",
+        "description": "WHITE_5 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE_5.txt"
+    },
+    {
+        "name": "WHITE 6",
+        "description": "WHITE_6 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE_6.txt"
+    },
+    {
+        "name": "WHITE 7",
+        "description": "WHITE_7 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE_7.txt"
+    },
+    {
+        "name": "White And Pink Outfit",
+        "description": "White_and_Pink_Outfit for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/White_and_Pink_Outfit.txt"
+    },
+    {
+        "name": "White Dress",
+        "description": "White_Dress for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/White_Dress.txt"
+    },
+    {
+        "name": "WHITE EVIL",
+        "description": "WHITE_EVIL for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE_EVIL.txt"
+    },
+    {
+        "name": "WHITE INVI",
+        "description": "WHITE_INVI for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE_INVI.txt"
+    },
+    {
+        "name": "White Modded M",
+        "description": "white_modded_M for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/white_modded_M.txt"
+    },
+    {
+        "name": "WHITE NT",
+        "description": "WHITE_NT for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE_NT.txt"
+    },
+    {
+        "name": "WHITE NT 2",
+        "description": "WHITE_NT_2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/WHITE_NT_2.txt"
+    },
+    {
+        "name": "White Orange",
+        "description": "white_orange for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/white_orange.txt"
+    },
+    {
+        "name": "White Tron Pant Thermal",
+        "description": "white_tron_pant_thermal for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/white_tron_pant_thermal.txt"
+    },
+    {
+        "name": "White Tryhard",
+        "description": "White_Tryhard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/White_Tryhard.txt"
+    },
+    {
+        "name": "Winter Male",
+        "description": "winter male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/winter male.txt"
+    },
+    {
+        "name": "X  I",
+        "description": "x- I for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x- I.txt"
+    },
+    {
+        "name": "X  II",
+        "description": "x- II for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x- II.txt"
+    },
+    {
+        "name": "X  III",
+        "description": "x- III for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x- III.txt"
+    },
+    {
+        "name": "X  IV",
+        "description": "x- IV for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x- IV.txt"
+    },
+    {
+        "name": "X  IX",
+        "description": "x- IX for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x- IX.txt"
+    },
+    {
+        "name": "X  V",
+        "description": "x- V for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x- V.txt"
+    },
+    {
+        "name": "X  VI",
+        "description": "x- VI for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x- VI.txt"
+    },
+    {
+        "name": "X  VII",
+        "description": "x- VII for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x- VII.txt"
+    },
+    {
+        "name": "X  VIII",
+        "description": "x- VIII for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x- VIII.txt"
+    },
+    {
+        "name": "X Mas1",
+        "description": "x-mas1 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas1.txt"
+    },
+    {
+        "name": "X Mas10",
+        "description": "x-mas10 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas10.txt"
+    },
+    {
+        "name": "X Mas11",
+        "description": "x-mas11 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas11.txt"
+    },
+    {
+        "name": "X Mas12",
+        "description": "x-mas12 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas12.txt"
+    },
+    {
+        "name": "X Mas2",
+        "description": "x-mas2 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas2.txt"
+    },
+    {
+        "name": "X Mas3",
+        "description": "x-mas3 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas3.txt"
+    },
+    {
+        "name": "X Mas4",
+        "description": "x-mas4 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas4.txt"
+    },
+    {
+        "name": "X Mas5",
+        "description": "x-mas5 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas5.txt"
+    },
+    {
+        "name": "X Mas6",
+        "description": "x-mas6 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas6.txt"
+    },
+    {
+        "name": "X Mas7",
+        "description": "x-mas7 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas7.txt"
+    },
+    {
+        "name": "X Mas8",
+        "description": "x-mas8 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas8.txt"
+    },
+    {
+        "name": "X Mas9",
+        "description": "x-mas9 for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/x-mas9.txt"
+    },
+    {
+        "name": "Xmas Gingerbread Woman",
+        "description": "Xmas gingerbread woman for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Xmas gingerbread woman.txt"
+    },
+    {
+        "name": "Xmas",
+        "description": "xmas for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/xmas.txt"
+    },
+    {
+        "name": "Yellow Male",
+        "description": "yellow male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/yellow male.txt"
+    },
+    {
+        "name": "Yellow TH Male",
+        "description": "yellow TH male for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/yellow TH male.txt"
+    },
+    {
+        "name": "Yellow Tryhard",
+        "description": "Yellow Tryhard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Yellow Tryhard.txt"
+    },
+    {
+        "name": "Yellow",
+        "description": "yellow for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/yellow.json"
+    },
+    {
+        "name": "Yellow Tryhard",
+        "description": "Yellow_Tryhard for Nenyoo Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/nenyoo/outfits/Yellow_Tryhard.txt"
+    }
+]

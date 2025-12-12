@@ -1,0 +1,33 @@
+Model: JESTER5
+Plate Style: 4
+Plate Text:  LWYUP  
+Primary Colour: 111
+Secondary Colour: 12
+Pearl Colour: 145
+Wheel Colour: 122
+Wheel Type: 8
+Engine: 3
+Brakes: 2
+Transmission: 2
+Horns: -1
+Suspension: -1
+Armor: -1
+Turbo: Yes
+Tiresmoke: Yes
+Headlights: -1
+Front Wheels: 107
+Livery: -1
+Tyre Smoke Colour: #FFFFFF
+Window Tint: 1
+Custom Primary Colour: #F0F0F0
+Custom Secondary Colour: #050505
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Neon Colour: #FF00FF
+Interior Colour: 145
+Dashboard Colour: 0
+Unk17: Yes
+Unk19: Yes
+Unk21: Yes

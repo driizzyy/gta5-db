@@ -1,0 +1,660 @@
+[
+    {
+        "name": "01",
+        "description": "01 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/01.json"
+    },
+    {
+        "name": "01 Oracle Xs A",
+        "description": "01_oracle_xs_a for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/01_oracle_xs_a.json"
+    },
+    {
+        "name": "02",
+        "description": "02 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/02.json"
+    },
+    {
+        "name": "1",
+        "description": "1 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/1.json"
+    },
+    {
+        "name": "10F ANCHO MOD A27",
+        "description": "10F ANCHO MOD A27 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/10F ANCHO MOD A27.json"
+    },
+    {
+        "name": "10F Original PurpleChromeHotPinkPearl Japanese",
+        "description": "10F Original PurpleChromeHotPinkPearl Japanese for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/10F Original PurpleChromeHotPinkPearl Japanese.json"
+    },
+    {
+        "name": "10F ROSE",
+        "description": "10F ROSE for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/10F ROSE.json"
+    },
+    {
+        "name": "19",
+        "description": "19 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/19.json"
+    },
+    {
+        "name": "1VR",
+        "description": "1VR for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/1VR.json"
+    },
+    {
+        "name": "21 (1)",
+        "description": "21 (1) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/21 (1).json"
+    },
+    {
+        "name": "300RG",
+        "description": "300RG for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/300RG.json"
+    },
+    {
+        "name": "4 Whealer Bennys",
+        "description": "4 whealer bennys for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/4 whealer bennys.json"
+    },
+    {
+        "name": "8F",
+        "description": "8F for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/8F.json"
+    },
+    {
+        "name": "Aaa",
+        "description": "aaa for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/aaa.json"
+    },
+    {
+        "name": "Annis ZR350",
+        "description": "annis ZR350 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/annis ZR350.json"
+    },
+    {
+        "name": "BANSHEEMODDED",
+        "description": "BANSHEEMODDED for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/BANSHEEMODDED.json"
+    },
+    {
+        "name": "BANSHEENORMALL",
+        "description": "BANSHEENORMALL for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/BANSHEENORMALL.json"
+    },
+    {
+        "name": "Benefactor Krieger",
+        "description": "Benefactor Krieger for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Benefactor Krieger.json"
+    },
+    {
+        "name": "Benefactor Vorschlaghammer",
+        "description": "Benefactor Vorschlaghammer for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Benefactor Vorschlaghammer.json"
+    },
+    {
+        "name": "BIMMERPURP",
+        "description": "BIMMERPURP for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/BIMMERPURP.json"
+    },
+    {
+        "name": "BIMMERPURPFINISHED",
+        "description": "BIMMERPURPFINISHED for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/BIMMERPURPFINISHED.json"
+    },
+    {
+        "name": "Bravado Buffalo STX",
+        "description": "Bravado Buffalo STX for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Bravado Buffalo STX.json"
+    },
+    {
+        "name": "Coil Cyclone II",
+        "description": "coil cyclone II for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/coil cyclone II.json"
+    },
+    {
+        "name": "DELUXOPURPFINISHED",
+        "description": "DELUXOPURPFINISHED for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/DELUXOPURPFINISHED.json"
+    },
+    {
+        "name": "Dimka Jester Rr",
+        "description": "dimka jester rr for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/dimka jester rr.json"
+    },
+    {
+        "name": "Enus Paragon R",
+        "description": "Enus Paragon R for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Enus Paragon R.json"
+    },
+    {
+        "name": "Furia",
+        "description": "Furia for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Furia.json"
+    },
+    {
+        "name": "Grotti Itali RSX",
+        "description": "grotti itali RSX for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/grotti itali RSX.json"
+    },
+    {
+        "name": "Imponte Deluxo",
+        "description": "Imponte Deluxo for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Imponte Deluxo.json"
+    },
+    {
+        "name": "Karin Sultan Classic",
+        "description": "Karin Sultan Classic for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Karin Sultan Classic.json"
+    },
+    {
+        "name": "Khan",
+        "description": "khan for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/khan.json"
+    },
+    {
+        "name": "Marihuanero",
+        "description": "Marihuanero for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Marihuanero.json"
+    },
+    {
+        "name": "Military Barrage",
+        "description": "Military Barrage for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Military Barrage.json"
+    },
+    {
+        "name": "Military HVY Future Shock Scarab",
+        "description": "Military HVY Future Shock Scarab for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Military HVY Future Shock Scarab.json"
+    },
+    {
+        "name": "Motorcycle Pegassi Oppressor Mk II",
+        "description": "Motorcycle Pegassi Oppressor Mk II for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Motorcycle Pegassi Oppressor Mk II.json"
+    },
+    {
+        "name": "Motorcycle Pegassi Oppressor",
+        "description": "Motorcycle Pegassi Oppressor for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Motorcycle Pegassi Oppressor.json"
+    },
+    {
+        "name": "Motorcycle Western Future Shock Deathbike",
+        "description": "Motorcycle Western Future Shock Deathbike for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Motorcycle Western Future Shock Deathbike.json"
+    },
+    {
+        "name": "Muscle Declasse Vigero ZX",
+        "description": "Muscle Declasse Vigero ZX for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Muscle Declasse Vigero ZX.json"
+    },
+    {
+        "name": "Muscle Imponte Ruiner ZZ 8",
+        "description": "Muscle Imponte Ruiner ZZ-8 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Muscle Imponte Ruiner ZZ-8.json"
+    },
+    {
+        "name": "Muscle Vapid Dominator ASP",
+        "description": "Muscle Vapid Dominator ASP for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Muscle Vapid Dominator ASP.json"
+    },
+    {
+        "name": "Muscle Vapid Dominator GTT",
+        "description": "Muscle Vapid Dominator GTT for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Muscle Vapid Dominator GTT.json"
+    },
+    {
+        "name": "Muscle Vapid Future Shock Dominator",
+        "description": "Muscle Vapid Future Shock Dominator for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Muscle Vapid Future Shock Dominator.json"
+    },
+    {
+        "name": "Muscle Vapid Lost Slamvan",
+        "description": "Muscle Vapid Lost Slamvan for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Muscle Vapid Lost Slamvan.json"
+    },
+    {
+        "name": "Muscle Willard Faction Custom Donk",
+        "description": "Muscle Willard Faction Custom Donk for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Muscle Willard Faction Custom Donk.json"
+    },
+    {
+        "name": "Obey 10F",
+        "description": "Obey 10F for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Obey 10F.json"
+    },
+    {
+        "name": "Obey Omnis E GT",
+        "description": "Obey Omnis e-GT for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Obey Omnis e-GT.json"
+    },
+    {
+        "name": "Off Road HVY Nightshark",
+        "description": "Off-road HVY Nightshark for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Off-road HVY Nightshark.json"
+    },
+    {
+        "name": "Open Wheel Benefactor BR8",
+        "description": "Open Wheel Benefactor BR8 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Open Wheel Benefactor BR8.json"
+    },
+    {
+        "name": "Open Wheel Declasse DR1",
+        "description": "Open Wheel Declasse DR1 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Open Wheel Declasse DR1.json"
+    },
+    {
+        "name": "Overflod Entity MT",
+        "description": "Overflod Entity MT for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Overflod Entity MT.json"
+    },
+    {
+        "name": "Overflod Suzume",
+        "description": "overflod Suzume for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/overflod Suzume.json"
+    },
+    {
+        "name": "Pegassi Ignus",
+        "description": "Pegassi Ignus for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Pegassi Ignus.json"
+    },
+    {
+        "name": "Pegassi Toreador",
+        "description": "Pegassi Toreador for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Pegassi Toreador.json"
+    },
+    {
+        "name": "Pegassi Zentorno",
+        "description": "Pegassi Zentorno for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Pegassi Zentorno.json"
+    },
+    {
+        "name": "Police",
+        "description": "police for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/police.json"
+    },
+    {
+        "name": "Progen Emerus",
+        "description": "Progen Emerus for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Progen Emerus.json"
+    },
+    {
+        "name": "Sport Annis Elegy Retro Custom",
+        "description": "Sport Annis Elegy Retro Custom for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Annis Elegy Retro Custom.json"
+    },
+    {
+        "name": "Sport Annis Future Shock ZR380",
+        "description": "Sport Annis Future Shock ZR380 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Annis Future Shock ZR380.json"
+    },
+    {
+        "name": "Sport Annis Remus",
+        "description": "Sport Annis Remus for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Annis Remus.json"
+    },
+    {
+        "name": "Sport Annis ZR350",
+        "description": "Sport Annis ZR350 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Annis ZR350.json"
+    },
+    {
+        "name": "Sport Bollokan Envisage",
+        "description": "Sport Bollokan Envisage for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Bollokan Envisage.json"
+    },
+    {
+        "name": "Sport Bravado Banshee GTS",
+        "description": "Sport Bravado Banshee GTS for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Bravado Banshee GTS.json"
+    },
+    {
+        "name": "Sport Classic Declasse Mamba",
+        "description": "Sport Classic Declasse Mamba for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Classic Declasse Mamba.json"
+    },
+    {
+        "name": "Sport Classic Grotti LSCM Cheetah Classic",
+        "description": "Sport Classic Grotti LSCM Cheetah Classic for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Classic Grotti LSCM Cheetah Classic.json"
+    },
+    {
+        "name": "Sport Dewbauchee Rapid GT X",
+        "description": "Sport Dewbauchee Rapid GT X for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Dewbauchee Rapid GT X.json"
+    },
+    {
+        "name": "Sport Dinka LSCM Jester RR",
+        "description": "Sport Dinka LSCM Jester RR for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Dinka LSCM Jester RR.json"
+    },
+    {
+        "name": "Sport Grotti Itali GTO",
+        "description": "Sport Grotti Itali GTO for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Grotti Itali GTO.json"
+    },
+    {
+        "name": "Sport Grotti Itali RSX",
+        "description": "Sport Grotti Itali RSX for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Grotti Itali RSX.json"
+    },
+    {
+        "name": "Sport Karin Kuruma (Armored)",
+        "description": "Sport Karin Kuruma (Armored) for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Karin Kuruma (Armored).json"
+    },
+    {
+        "name": "Sport Karin Sultan RS Classic",
+        "description": "Sport Karin Sultan RS Classic for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Karin Sultan RS Classic.json"
+    },
+    {
+        "name": "Sport Maibatsu Penumbra",
+        "description": "Sport Maibatsu Penumbra for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Maibatsu Penumbra.json"
+    },
+    {
+        "name": "Sport Obey 10F",
+        "description": "Sport Obey 10F for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Obey 10F.json"
+    },
+    {
+        "name": "Sport Ocelot Jugular",
+        "description": "Sport Ocelot Jugular for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Ocelot Jugular.json"
+    },
+    {
+        "name": "Sport Pfister Comet Retro Custom",
+        "description": "Sport Pfister Comet Retro Custom for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Pfister Comet Retro Custom.json"
+    },
+    {
+        "name": "Sport Ubermacht Sentinel Classic Widebody",
+        "description": "Sport Ubermacht Sentinel Classic Widebody for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Ubermacht Sentinel Classic Widebody.json"
+    },
+    {
+        "name": "Sport Ubermacht Sentinel GTS",
+        "description": "Sport Ubermacht Sentinel GTS for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Sport Ubermacht Sentinel GTS.json"
+    },
+    {
+        "name": "Super Bravado Banshee 900R",
+        "description": "Super Bravado Banshee 900R for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Bravado Banshee 900R.json"
+    },
+    {
+        "name": "Super Declasse Scramjet",
+        "description": "Super Declasse Scramjet for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Declasse Scramjet.json"
+    },
+    {
+        "name": "Super Grotti Furia",
+        "description": "Super Grotti Furia for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Grotti Furia.json"
+    },
+    {
+        "name": "Super Grotti Turismo Omaggio",
+        "description": "Super Grotti Turismo Omaggio for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Grotti Turismo Omaggio.json"
+    },
+    {
+        "name": "Super Grotti Turismo R",
+        "description": "Super Grotti Turismo R for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Grotti Turismo R.json"
+    },
+    {
+        "name": "Super Ocelot Virtue",
+        "description": "Super Ocelot Virtue for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Ocelot Virtue.json"
+    },
+    {
+        "name": "Super Pegassi Weaponized Ignus",
+        "description": "Super Pegassi Weaponized Ignus for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Pegassi Weaponized Ignus.json"
+    },
+    {
+        "name": "Super Progen Itali GTB Custom",
+        "description": "Super Progen Itali GTB Custom for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Progen Itali GTB Custom.json"
+    },
+    {
+        "name": "Super Progen T20",
+        "description": "Super Progen T20 for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Progen T20.json"
+    },
+    {
+        "name": "Super Progen Tyrus",
+        "description": "Super Progen Tyrus for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Progen Tyrus.json"
+    },
+    {
+        "name": "Super Truffade Nero Custom",
+        "description": "Super Truffade Nero Custom for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Truffade Nero Custom.json"
+    },
+    {
+        "name": "Super Truffade Thrax",
+        "description": "Super Truffade Thrax for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Truffade Thrax.json"
+    },
+    {
+        "name": "Super Vapid FMJ",
+        "description": "Super Vapid FMJ for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Vapid FMJ.json"
+    },
+    {
+        "name": "Super Vigilante",
+        "description": "Super Vigilante for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Super Vigilante.json"
+    },
+    {
+        "name": "SUV Karin Everon RS",
+        "description": "SUV Karin Everon RS for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/SUV Karin Everon RS.json"
+    },
+    {
+        "name": "Truffade Thrax",
+        "description": "Truffade Thrax for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Truffade Thrax.json"
+    },
+    {
+        "name": "Ubermacht Sentinel GTS",
+        "description": "Ubermacht Sentinel GTS for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Ubermacht Sentinel GTS.json"
+    },
+    {
+        "name": "Van Vapid Speedo Custom",
+        "description": "Van Vapid Speedo Custom for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/vehicles/Van Vapid Speedo Custom.json"
+    }
+]

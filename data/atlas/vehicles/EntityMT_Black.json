@@ -1,0 +1,104 @@
+{
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        12,
+        0
+    ],
+    "MOD_FENDER": [
+        0,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        12,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        28,
+        0
+    ],
+    "MOD_GRILLE": [
+        1,
+        0
+    ],
+    "MOD_HOOD": [
+        12,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        0,
+        0
+    ],
+    "MOD_ROOF": [
+        3,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        8,
+        0
+    ],
+    "MOD_SPOILERS": [
+        27,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        0,
+        0,
+        0
+    ],
+    "custom_secondary_color": [
+        0,
+        0,
+        0
+    ],
+    "dash_color": 89,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 7,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 92,
+    "plate_text": "47OOJ935",
+    "plate_text_index": 0,
+    "primary_color": 39,
+    "radio_station": "RADIO_02_POP",
+    "secondary_color": 39,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 1748565021,
+    "vehicle_window_tint": -1,
+    "wheel_color": 0,
+    "wheel_type": 8
+}

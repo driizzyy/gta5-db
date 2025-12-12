@@ -1,0 +1,77 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        113,
+        0
+    ],
+    "MOD_HORNS": [
+        -1,
+        0
+    ],
+    "MOD_ROOF": [
+        0,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        4,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "custom_primary_color": [
+        0,
+        255,
+        255
+    ],
+    "dash_color": 0,
+    "drift_tires": 0,
+    "headlight_color": 2,
+    "interior_color": 1,
+    "neon_color": [
+        3,
+        83,
+        255
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 73,
+    "plate_text": "88GOV044",
+    "plate_text_index": 0,
+    "primary_color": 12,
+    "secondary_color": 12,
+    "tire_can_burst": 0,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 3052358707,
+    "vehicle_window_tint": 1,
+    "wheel_color": 70,
+    "wheel_type": 8
+}

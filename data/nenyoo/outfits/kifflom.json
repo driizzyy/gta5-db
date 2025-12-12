@@ -1,0 +1,89 @@
+{
+    "Hash": 2627665880,
+    "Outfits": [
+        {
+            "Componet": 0,
+            "Texture": 0,
+            "Varient": 0
+        },
+        {
+            "Componet": 1,
+            "Texture": 54,
+            "Varient": 1
+        },
+        {
+            "Componet": 2,
+            "Texture": 53,
+            "Varient": 0
+        },
+        {
+            "Componet": 3,
+            "Texture": 101,
+            "Varient": 0
+        },
+        {
+            "Componet": 4,
+            "Texture": 100,
+            "Varient": 15
+        },
+        {
+            "Componet": 5,
+            "Texture": 81,
+            "Varient": 25
+        },
+        {
+            "Componet": 6,
+            "Texture": 118,
+            "Varient": 16
+        },
+        {
+            "Componet": 7,
+            "Texture": 98,
+            "Varient": 0
+        },
+        {
+            "Componet": 8,
+            "Texture": 152,
+            "Varient": 0
+        },
+        {
+            "Componet": 9,
+            "Texture": 29,
+            "Varient": 8
+        },
+        {
+            "Componet": 10,
+            "Texture": 109,
+            "Varient": 0
+        },
+        {
+            "Componet": 11,
+            "Texture": 285,
+            "Varient": 0
+        }
+    ],
+    "Props": [
+        {
+            "Componet": 0,
+            "Texture": 59,
+            "Varient": 8
+        },
+        {
+            "Componet": 1,
+            "Texture": 23,
+            "Varient": 0
+        },
+        {
+            "Componet": 2,
+            "Texture": -1,
+            "Varient": -1
+        },
+        {
+            "Componet": 3,
+            "Texture": -1,
+            "Varient": -1
+        }
+    ],
+    "Z": "0",
+    "maden": "floxiyyyy"
+}

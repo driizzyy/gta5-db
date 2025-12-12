@@ -1,0 +1,110 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        7,
+        0
+    ],
+    "MOD_FENDER": [
+        0,
+        0
+    ],
+    "MOD_FRAME": [
+        1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        2,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        115,
+        0
+    ],
+    "MOD_GRILLE": [
+        0,
+        0
+    ],
+    "MOD_HOOD": [
+        3,
+        0
+    ],
+    "MOD_HORNS": [
+        -1,
+        0
+    ],
+    "MOD_LIVERY": [
+        -1,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        0,
+        0
+    ],
+    "MOD_RIGHTFENDER": [
+        1,
+        0
+    ],
+    "MOD_ROOF": [
+        1,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        4,
+        0
+    ],
+    "MOD_SPOILERS": [
+        11,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "dash_color": 0,
+    "drift_tires": 0,
+    "interior_color": 0,
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 107,
+    "plate_text": "49HAP060",
+    "plate_text_index": 0,
+    "primary_color": 67,
+    "secondary_color": 111,
+    "tire_can_burst": 0,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 2891838741,
+    "vehicle_window_tint": 0,
+    "wheel_color": 122,
+    "wheel_type": 8
+}

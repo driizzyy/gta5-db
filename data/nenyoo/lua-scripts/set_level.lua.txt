@@ -1,0 +1,19 @@
+gui.createMainTab("Level Setter")
+
+gui.addTextInput("Enter desired level (1-" .. maxLevel .. "):", function(input)
+    local level = tonumber(input)
+    if level == nil or level < 1 or level > maxLevel then
+        util.toast("Invalid level! Enter a number between 1 and " .. maxLevel)
+        return
+    end
+
+    local success, err = pcall(function()
+        native.call(0xCE5D0E5E50D391B6, level)
+    end)
+
+    if success then
+        util.toast("Attempted to set level to " .. level)
+    else
+        util.toast("Failed to set level: " .. tostring(err))
+    end
+end)

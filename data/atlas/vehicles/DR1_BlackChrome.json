@@ -1,0 +1,129 @@
+{
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        1,
+        0
+    ],
+    "MOD_FENDER": [
+        2,
+        0
+    ],
+    "MOD_FRAME": [
+        5,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        6,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        26,
+        0
+    ],
+    "MOD_GRILLE": [
+        4,
+        0
+    ],
+    "MOD_ROOF": [
+        4,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        1,
+        0
+    ],
+    "MOD_SPOILERS": [
+        4,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        0,
+        0,
+        0
+    ],
+    "custom_secondary_color": [
+        0,
+        0,
+        0
+    ],
+    "dash_color": 156,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 8,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 0,
+    "plate_text": "44YEV817",
+    "plate_text_index": 0,
+    "primary_color": 120,
+    "radio_station": "RADIO_02_POP",
+    "secondary_color": 120,
+    "vehicle_attachments": [],
+    "vehicle_extras": [
+        [
+            1,
+            false
+        ],
+        [
+            2,
+            false
+        ],
+        [
+            3,
+            false
+        ],
+        [
+            4,
+            false
+        ],
+        [
+            5,
+            false
+        ],
+        [
+            6,
+            false
+        ],
+        [
+            7,
+            false
+        ],
+        [
+            8,
+            false
+        ],
+        [
+            11,
+            false
+        ]
+    ],
+    "vehicle_model_hash": 1181339704,
+    "vehicle_window_tint": -1,
+    "wheel_color": 0,
+    "wheel_type": 9
+}

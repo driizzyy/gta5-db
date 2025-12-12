@@ -1,0 +1,101 @@
+{
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        4,
+        0
+    ],
+    "MOD_FRAME": [
+        0,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        4,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        23,
+        0
+    ],
+    "MOD_GRILLE": [
+        1,
+        0
+    ],
+    "MOD_HOOD": [
+        0,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        3,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        0,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        71,
+        57,
+        27
+    ],
+    "custom_secondary_color": [
+        71,
+        57,
+        27
+    ],
+    "dash_color": 111,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 38,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 37,
+    "plate_text": "46SAI011",
+    "plate_text_index": 0,
+    "primary_color": 158,
+    "radio_station": "RADIO_03_HIPHOP_NEW",
+    "secondary_color": 158,
+    "vehicle_attachments": [],
+    "vehicle_extras": [
+        [
+            1,
+            false
+        ]
+    ],
+    "vehicle_model_hash": 2566281822,
+    "vehicle_window_tint": -1,
+    "wheel_color": 156,
+    "wheel_type": 9
+}

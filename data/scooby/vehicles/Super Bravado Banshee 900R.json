@@ -1,0 +1,136 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        -1,
+        0
+    ],
+    "MOD_BRAKES": [
+        -1,
+        0
+    ],
+    "MOD_DASHBOARD": [
+        0,
+        0
+    ],
+    "MOD_DOORSPEAKERS": [
+        3,
+        0
+    ],
+    "MOD_ENGINE": [
+        2,
+        0
+    ],
+    "MOD_ENGINEBLOCK": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        3,
+        0
+    ],
+    "MOD_FENDER": [
+        -1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        18,
+        0
+    ],
+    "MOD_GRILLE": [
+        -1,
+        0
+    ],
+    "MOD_HOOD": [
+        2,
+        0
+    ],
+    "MOD_HORNS": [
+        -1,
+        0
+    ],
+    "MOD_LIVERY": [
+        2,
+        0
+    ],
+    "MOD_ORNAMENTS": [
+        19,
+        0
+    ],
+    "MOD_SEATS": [
+        7,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        1,
+        0
+    ],
+    "MOD_SPOILERS": [
+        1,
+        0
+    ],
+    "MOD_STEERINGWHEELS": [
+        12,
+        0
+    ],
+    "MOD_STRUTS": [
+        0,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        2,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        1,
+        0
+    ],
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "dash_color": 132,
+    "drift_tires": 0,
+    "headlight_color": 255,
+    "interior_color": 1,
+    "neon_color": [
+        255,
+        0,
+        0
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 28,
+    "plate_text": "        ",
+    "plate_text_index": 3,
+    "primary_color": 27,
+    "secondary_color": 27,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_extras": [
+        [
+            1,
+            0
+        ],
+        [
+            2,
+            0
+        ]
+    ],
+    "vehicle_model_hash": 633712403,
+    "vehicle_window_tint": 1,
+    "wheel_color": 27,
+    "wheel_type": 10
+}

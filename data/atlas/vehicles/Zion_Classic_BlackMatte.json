@@ -1,0 +1,104 @@
+{
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        3,
+        0
+    ],
+    "MOD_FENDER": [
+        1,
+        0
+    ],
+    "MOD_FRAME": [
+        2,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        4,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        0,
+        0
+    ],
+    "MOD_HOOD": [
+        3,
+        0
+    ],
+    "MOD_LIVERY": [
+        0,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        1,
+        0
+    ],
+    "MOD_RIGHTFENDER": [
+        1,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        9,
+        0
+    ],
+    "MOD_SPOILERS": [
+        1,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        0,
+        0,
+        0
+    ],
+    "custom_secondary_color": [
+        0,
+        0,
+        0
+    ],
+    "dash_color": 111,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 13,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 0,
+    "plate_text": "45MSH874",
+    "plate_text_index": 0,
+    "primary_color": 131,
+    "radio_station": "RADIO_02_POP",
+    "secondary_color": 131,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 1862507111,
+    "vehicle_window_tint": -1,
+    "wheel_color": 0,
+    "wheel_type": 10
+}

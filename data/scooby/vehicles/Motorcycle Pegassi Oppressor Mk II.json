@@ -1,0 +1,76 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_FRAME": [
+        0,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        -1,
+        0
+    ],
+    "MOD_GRILLE": [
+        1,
+        0
+    ],
+    "MOD_LIVERY": [
+        16,
+        0
+    ],
+    "MOD_REARWHEEL": [
+        71,
+        0
+    ],
+    "MOD_ROOF": [
+        1,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "dash_color": 0,
+    "drift_tires": 0,
+    "headlight_color": 255,
+    "interior_color": 0,
+    "neon_color": [
+        0,
+        185,
+        255
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 87,
+    "plate_text": "10IKE249",
+    "plate_text_index": 0,
+    "primary_color": 38,
+    "secondary_color": 88,
+    "tire_can_burst": 0,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 2069146067,
+    "vehicle_window_tint": 0,
+    "wheel_color": 156,
+    "wheel_type": 6
+}

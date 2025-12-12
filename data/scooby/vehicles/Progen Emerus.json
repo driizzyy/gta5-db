@@ -1,0 +1,100 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        -1,
+        0
+    ],
+    "MOD_BRAKES": [
+        -1,
+        0
+    ],
+    "MOD_ENGINE": [
+        -1,
+        0
+    ],
+    "MOD_EXHAUST": [
+        0,
+        0
+    ],
+    "MOD_FENDER": [
+        0,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        12,
+        0
+    ],
+    "MOD_GRILLE": [
+        0,
+        0
+    ],
+    "MOD_HORNS": [
+        0,
+        0
+    ],
+    "MOD_LIVERY": [
+        9,
+        0
+    ],
+    "MOD_ROOF": [
+        1,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        9,
+        0
+    ],
+    "MOD_SPOILERS": [
+        -1,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        -1,
+        0
+    ],
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "custom_primary_color": [
+        255,
+        161,
+        0
+    ],
+    "custom_secondary_color": [
+        255,
+        161,
+        0
+    ],
+    "dash_color": 132,
+    "drift_tires": 0,
+    "headlight_color": 255,
+    "interior_color": 1,
+    "neon_color": [
+        0,
+        0,
+        0
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 0,
+    "plate_text": "DERROCE ",
+    "plate_text_index": 1,
+    "primary_color": 12,
+    "secondary_color": 0,
+    "tire_can_burst": 1,
+    "vehicle_extras": [
+        [
+            1,
+            0
+        ]
+    ],
+    "vehicle_model_hash": 1323778901,
+    "vehicle_window_tint": 1,
+    "wheel_color": 89,
+    "wheel_type": 10
+}

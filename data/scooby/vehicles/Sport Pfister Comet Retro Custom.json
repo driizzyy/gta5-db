@@ -1,0 +1,136 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_AERIALS": [
+        1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_DASHBOARD": [
+        4,
+        0
+    ],
+    "MOD_DIALDESIGN": [
+        5,
+        0
+    ],
+    "MOD_DOORSPEAKERS": [
+        5,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        2,
+        0
+    ],
+    "MOD_FENDER": [
+        0,
+        0
+    ],
+    "MOD_FRAME": [
+        2,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        9,
+        0
+    ],
+    "MOD_HOOD": [
+        6,
+        0
+    ],
+    "MOD_HORNS": [
+        -1,
+        0
+    ],
+    "MOD_LIVERY": [
+        -1,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        2,
+        0
+    ],
+    "MOD_SEATS": [
+        3,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        6,
+        0
+    ],
+    "MOD_SPOILERS": [
+        2,
+        0
+    ],
+    "MOD_STEERINGWHEELS": [
+        11,
+        0
+    ],
+    "MOD_STRUTS": [
+        7,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TRIMDESIGN": [
+        0,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "dash_color": 112,
+    "drift_tires": 0,
+    "headlight_color": 255,
+    "interior_color": 0,
+    "neon_color": [
+        255,
+        0,
+        0
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 28,
+    "plate_text": "  111   ",
+    "plate_text_index": 6,
+    "primary_color": 29,
+    "secondary_color": 2,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 2272483501,
+    "vehicle_window_tint": 1,
+    "wheel_color": 27,
+    "wheel_type": 8
+}

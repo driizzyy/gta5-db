@@ -1,0 +1,51 @@
+[
+    {
+        "name": "All Awards",
+        "description": "All Awards for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/lua-scripts/All Awards.lua"
+    },
+    {
+        "name": "Bunker Research Unlocker",
+        "description": "Bunker Research Unlocker for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/lua-scripts/Bunker Research Unlocker.lua"
+    },
+    {
+        "name": "Carerr Process",
+        "description": "carerr process for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/lua-scripts/carerr process.lua"
+    },
+    {
+        "name": "Cayo",
+        "description": "cayo for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/lua-scripts/cayo.lua"
+    },
+    {
+        "name": "Money Drop",
+        "description": "money-drop for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/lua-scripts/money-drop.lua"
+    },
+    {
+        "name": "NightClubSafe",
+        "description": "NightClubSafe for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/lua-scripts/NightClubSafe.lua"
+    },
+    {
+        "name": "Teleport Menu",
+        "description": "teleport-menu for Scooby Mod Menu",
+        "author": "Community",
+        "version": "1.0",
+        "path": "data/scooby/lua-scripts/teleport-menu.lua"
+    }
+]

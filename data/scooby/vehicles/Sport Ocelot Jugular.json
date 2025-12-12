@@ -1,0 +1,118 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        1,
+        0
+    ],
+    "MOD_FENDER": [
+        -1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        2,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        14,
+        0
+    ],
+    "MOD_GRILLE": [
+        0,
+        0
+    ],
+    "MOD_HOOD": [
+        6,
+        0
+    ],
+    "MOD_HORNS": [
+        -1,
+        0
+    ],
+    "MOD_LIVERY": [
+        1,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        1,
+        0
+    ],
+    "MOD_ROOF": [
+        0,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        2,
+        0
+    ],
+    "MOD_SPOILERS": [
+        0,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        3,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "custom_primary_color": [
+        15,
+        0,
+        56
+    ],
+    "dash_color": 111,
+    "drift_tires": 0,
+    "headlight_color": 255,
+    "interior_color": 89,
+    "neon_color": [
+        255,
+        238,
+        0
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 89,
+    "plate_text": "  JAG   ",
+    "plate_text_index": 1,
+    "primary_color": 16,
+    "secondary_color": 89,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_extras": [
+        [
+            1,
+            0
+        ]
+    ],
+    "vehicle_model_hash": 4086055493,
+    "vehicle_window_tint": 1,
+    "wheel_color": 89,
+    "wheel_type": 11
+}

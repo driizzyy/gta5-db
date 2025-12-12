@@ -1,0 +1,59 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        0,
+        0
+    ],
+    "MOD_HORNS": [
+        57,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "dash_color": 0,
+    "drift_tires": 0,
+    "interior_color": 0,
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 28,
+    "plate_text": " CANDY  ",
+    "plate_text_index": 0,
+    "primary_color": 12,
+    "secondary_color": 12,
+    "tire_can_burst": 0,
+    "vehicle_extras": [],
+    "vehicle_model_hash": 833469436,
+    "vehicle_window_tint": 0,
+    "wheel_color": 27,
+    "wheel_type": 10
+}

@@ -1,0 +1,33 @@
+Model: NIOBE
+Plate Style: 4
+Plate Text:  SITAR  
+Primary Colour: 218
+Secondary Colour: 5
+Pearl Colour: 218
+Wheel Colour: 122
+Wheel Type: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: -1
+Suspension: 3
+Armor: -1
+Turbo: Yes
+Tiresmoke: Yes
+Headlights: -1
+Front Wheels: 111
+Livery: 6
+Tyre Smoke Colour: #FFFFFF
+Window Tint: 1
+Custom Primary Colour: #000000
+Custom Secondary Colour: #777C87
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Neon Colour: #000000
+Interior Colour: 1
+Dashboard Colour: 0
+Unk17: Yes
+Unk19: Yes
+Unk21: Yes

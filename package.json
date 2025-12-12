@@ -1,0 +1,10 @@
+﻿{
+  "name": "gta5-mod-database",
+  "version": "1.0.0",
+  "description": "Auto-generate database files for GTA 5 Mod Menu website",
+  "scripts": {
+    "update": "node generate-database.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

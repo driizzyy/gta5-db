@@ -1,0 +1,76 @@
+{
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        14,
+        0
+    ],
+    "MOD_HOOD": [
+        9,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        1,
+        0
+    ],
+    "MOD_SPOILERS": [
+        6,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        0,
+        0,
+        255
+    ],
+    "custom_secondary_color": [
+        0,
+        0,
+        255
+    ],
+    "dash_color": 65,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 93,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 67,
+    "plate_text": "40TFE917",
+    "plate_text_index": 0,
+    "primary_color": 54,
+    "radio_station": "RADIO_13_JAZZ",
+    "secondary_color": 54,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 867799010,
+    "vehicle_window_tint": -1,
+    "wheel_color": 112,
+    "wheel_type": 8
+}

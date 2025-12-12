@@ -1,0 +1,84 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        2,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        27,
+        0
+    ],
+    "MOD_HORNS": [
+        -1,
+        0
+    ],
+    "MOD_ROOF": [
+        3,
+        0
+    ],
+    "MOD_SPOILERS": [
+        2,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "custom_primary_color": [
+        255,
+        80,
+        0
+    ],
+    "custom_secondary_color": [
+        255,
+        80,
+        0
+    ],
+    "dash_color": 0,
+    "drift_tires": 0,
+    "headlight_color": 255,
+    "interior_color": 0,
+    "neon_color": [
+        255,
+        50,
+        0
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 0,
+    "plate_text": " TANGO  ",
+    "plate_text_index": 1,
+    "primary_color": 12,
+    "secondary_color": 0,
+    "tire_can_burst": 1,
+    "vehicle_extras": [],
+    "vehicle_model_hash": 1426219628,
+    "vehicle_window_tint": 0,
+    "wheel_color": 88,
+    "wheel_type": 9
+}

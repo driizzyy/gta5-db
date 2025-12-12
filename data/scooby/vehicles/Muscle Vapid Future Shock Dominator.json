@@ -1,0 +1,114 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_AERIALS": [
+        0,
+        0
+    ],
+    "MOD_AIRFILTER": [
+        3,
+        0
+    ],
+    "MOD_ARCHCOVER": [
+        2,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        4,
+        0
+    ],
+    "MOD_FRAME": [
+        2,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        0,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        35,
+        0
+    ],
+    "MOD_GRILLE": [
+        2,
+        0
+    ],
+    "MOD_HORNS": [
+        57,
+        0
+    ],
+    "MOD_LIVERY": [
+        17,
+        0
+    ],
+    "MOD_RIGHTFENDER": [
+        4,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        0,
+        0
+    ],
+    "MOD_STRUTS": [
+        2,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        4,
+        0
+    ],
+    "MOD_TANK": [
+        1,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        3,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "dash_color": 160,
+    "drift_tires": 0,
+    "interior_color": 160,
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 160,
+    "plate_text": "62CLL823",
+    "plate_text_index": 0,
+    "primary_color": 107,
+    "secondary_color": 159,
+    "tire_can_burst": 0,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 2919906639,
+    "vehicle_window_tint": -1,
+    "wheel_color": 158,
+    "wheel_type": 1
+}

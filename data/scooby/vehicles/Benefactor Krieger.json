@@ -1,0 +1,99 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        4,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        19,
+        0
+    ],
+    "MOD_HOOD": [
+        1,
+        0
+    ],
+    "MOD_HORNS": [
+        -1,
+        0
+    ],
+    "MOD_LIVERY": [
+        -1,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        0,
+        0
+    ],
+    "MOD_SPOILERS": [
+        12,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        3,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "custom_primary_color": [
+        5,
+        171,
+        255
+    ],
+    "custom_secondary_color": [
+        5,
+        171,
+        255
+    ],
+    "dash_color": 65,
+    "drift_tires": 0,
+    "headlight_color": 255,
+    "interior_color": 33,
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 18,
+    "plate_text": "FNG3VF6T",
+    "plate_text_index": 0,
+    "primary_color": 117,
+    "secondary_color": 117,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        0,
+        0,
+        0
+    ],
+    "vehicle_extras": [
+        [
+            1,
+            0
+        ]
+    ],
+    "vehicle_model_hash": 3630826055,
+    "vehicle_window_tint": 0,
+    "wheel_color": 156,
+    "wheel_type": 10
+}

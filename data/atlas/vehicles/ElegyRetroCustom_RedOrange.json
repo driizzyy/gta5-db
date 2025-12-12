@@ -1,0 +1,148 @@
+{
+    "MOD_AERIALS": [
+        10,
+        0
+    ],
+    "MOD_AIRFILTER": [
+        4,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_DIALDESIGN": [
+        14,
+        0
+    ],
+    "MOD_DOORSPEAKERS": [
+        1,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_ENGINEBLOCK": [
+        2,
+        0
+    ],
+    "MOD_EXHAUST": [
+        8,
+        0
+    ],
+    "MOD_FENDER": [
+        1,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        5,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        18,
+        0
+    ],
+    "MOD_HOOD": [
+        5,
+        0
+    ],
+    "MOD_LIVERY": [
+        0,
+        0
+    ],
+    "MOD_PLATEHOLDER": [
+        0,
+        0
+    ],
+    "MOD_ROOF": [
+        3,
+        0
+    ],
+    "MOD_SEATS": [
+        0,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        2,
+        0
+    ],
+    "MOD_SPOILERS": [
+        15,
+        0
+    ],
+    "MOD_STEERINGWHEELS": [
+        11,
+        0
+    ],
+    "MOD_STRUTS": [
+        11,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TANK": [
+        1,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TRIM": [
+        1,
+        0
+    ],
+    "MOD_WINDOWS": [
+        1,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        255,
+        0,
+        0
+    ],
+    "custom_secondary_color": [
+        255,
+        0,
+        0
+    ],
+    "dash_color": 134,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 63,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 130,
+    "plate_text": "09EER360",
+    "plate_text_index": 0,
+    "primary_color": 13,
+    "radio_station": "RADIO_36_AUDIOPLAYER",
+    "secondary_color": 13,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 196747873,
+    "vehicle_window_tint": -1,
+    "wheel_color": 158,
+    "wheel_type": 9
+}

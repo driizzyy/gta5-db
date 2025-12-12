@@ -1,0 +1,162 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_AERIALS": [
+        -1,
+        0
+    ],
+    "MOD_AIRFILTER": [
+        9,
+        0
+    ],
+    "MOD_ARCHCOVER": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_ENGINEBLOCK": [
+        5,
+        0
+    ],
+    "MOD_EXHAUST": [
+        3,
+        0
+    ],
+    "MOD_FENDER": [
+        -1,
+        0
+    ],
+    "MOD_FRAME": [
+        4,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        -1,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        6,
+        0
+    ],
+    "MOD_GRILLE": [
+        1,
+        0
+    ],
+    "MOD_HOOD": [
+        14,
+        0
+    ],
+    "MOD_HORNS": [
+        -1,
+        0
+    ],
+    "MOD_LIVERY": [
+        2,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        -1,
+        0
+    ],
+    "MOD_ROOF": [
+        3,
+        0
+    ],
+    "MOD_SEATS": [
+        13,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        1,
+        0
+    ],
+    "MOD_SPOILERS": [
+        4,
+        0
+    ],
+    "MOD_STEERINGWHEELS": [
+        15,
+        0
+    ],
+    "MOD_STRUTS": [
+        11,
+        0
+    ],
+    "MOD_SUSPENSION": [
+        3,
+        0
+    ],
+    "MOD_TANK": [
+        -1,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TRIMDESIGN": [
+        0,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_VANITYPLATES": [
+        6,
+        0
+    ],
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "custom_primary_color": [
+        0,
+        0,
+        0
+    ],
+    "custom_secondary_color": [
+        0,
+        0,
+        0
+    ],
+    "dash_color": 0,
+    "drift_tires": 0,
+    "headlight_color": 255,
+    "interior_color": 0,
+    "neon_color": [
+        255,
+        255,
+        255
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 0,
+    "plate_text": " BULZO  ",
+    "plate_text_index": 3,
+    "primary_color": 12,
+    "secondary_color": 0,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        0,
+        0,
+        0
+    ],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 736672010,
+    "vehicle_window_tint": 1,
+    "wheel_color": 0,
+    "wheel_type": 10
+}

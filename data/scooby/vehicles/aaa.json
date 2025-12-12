@@ -1,0 +1,63 @@
+{
+    "MOD_FRONTWHEEL": [
+        -1,
+        0
+    ],
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "custom_primary_color": [
+        24,
+        0,
+        255
+    ],
+    "dash_color": 0,
+    "drift_tires": 0,
+    "headlight_color": 255,
+    "interior_color": 0,
+    "neon_color": [
+        255,
+        50,
+        100
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 0,
+    "plate_text": "  911   ",
+    "plate_text_index": 5,
+    "primary_color": 132,
+    "secondary_color": 132,
+    "tire_can_burst": 0,
+    "vehicle_extras": [
+        [
+            1,
+            1
+        ],
+        [
+            3,
+            1
+        ],
+        [
+            4,
+            1
+        ],
+        [
+            10,
+            1
+        ],
+        [
+            11,
+            1
+        ],
+        [
+            12,
+            1
+        ]
+    ],
+    "vehicle_model_hash": 2515846680,
+    "vehicle_window_tint": -1,
+    "wheel_color": 1,
+    "wheel_type": 3
+}

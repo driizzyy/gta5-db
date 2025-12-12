@@ -1,0 +1,98 @@
+{
+  "colors": [
+    12,
+    12
+  ],
+  "custom decal": [
+    false,
+    false
+  ],
+  "custom primary": [
+    0,
+    0,
+    0
+  ],
+  "custom secondary": [
+    0,
+    0,
+    0
+  ],
+  "extra color 5": 1,
+  "extra colors": [
+    44,
+    27
+  ],
+  "garage bitset": -268420608,
+  "model": 960812448,
+  "mods": [
+    -1,
+    7,
+    7,
+    5,
+    0,
+    1,
+    7,
+    7,
+    -1,
+    1,
+    0,
+    3,
+    2,
+    2,
+    44,
+    1,
+    4,
+    -1,
+    0,
+    -1,
+    0,
+    -1,
+    0,
+    107,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    -1,
+    1
+  ],
+  "neon color": [
+    255,
+    1,
+    1
+  ],
+  "neon enabled": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "plate index": 1,
+  "plate text": "  PAPA J",
+  "tire color": [
+    0,
+    0,
+    0
+  ],
+  "wheel type": 8,
+  "window tint": 1
+}

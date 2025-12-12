@@ -1,0 +1,98 @@
+{
+    "": [
+        -1,
+        0
+    ],
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        2,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_EXHAUST": [
+        2,
+        0
+    ],
+    "MOD_FRONTBUMPER": [
+        -1,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        13,
+        0
+    ],
+    "MOD_HOOD": [
+        1,
+        0
+    ],
+    "MOD_HORNS": [
+        -1,
+        0
+    ],
+    "MOD_REARBUMPER": [
+        1,
+        0
+    ],
+    "MOD_ROOF": [
+        -1,
+        0
+    ],
+    "MOD_SIDESKIRT": [
+        0,
+        0
+    ],
+    "MOD_TIRESMOKE": "TOGGLE",
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "MOD_TURBO": "TOGGLE",
+    "MOD_XENONHEADLIGHTS": "TOGGLE",
+    "custom_primary_color": [
+        255,
+        255,
+        255
+    ],
+    "custom_secondary_color": [
+        255,
+        255,
+        255
+    ],
+    "dash_color": 0,
+    "drift_tires": 0,
+    "headlight_color": 255,
+    "interior_color": 0,
+    "neon_color": [
+        255,
+        255,
+        255
+    ],
+    "neon_lights": [
+        true,
+        true,
+        true,
+        true
+    ],
+    "pearlescent_color": 0,
+    "plate_text": " SZAMBO ",
+    "plate_text_index": 3,
+    "primary_color": 13,
+    "secondary_color": 13,
+    "tire_can_burst": 1,
+    "tire_smoke_color": [
+        255,
+        255,
+        255
+    ],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 1663218586,
+    "vehicle_window_tint": 0,
+    "wheel_color": 156,
+    "wheel_type": 8
+}

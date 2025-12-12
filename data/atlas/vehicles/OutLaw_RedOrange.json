@@ -1,0 +1,64 @@
+{
+    "MOD_ARMOR": [
+        4,
+        0
+    ],
+    "MOD_BRAKES": [
+        1,
+        0
+    ],
+    "MOD_ENGINE": [
+        3,
+        0
+    ],
+    "MOD_FRONTWHEEL": [
+        49,
+        0
+    ],
+    "MOD_TRANSMISSION": [
+        2,
+        0
+    ],
+    "clan_logo": false,
+    "convertable_state": 0,
+    "custom_primary_color": [
+        255,
+        0,
+        0
+    ],
+    "custom_secondary_color": [
+        255,
+        0,
+        0
+    ],
+    "dash_color": 0,
+    "has_collision": true,
+    "headlight_color": 255,
+    "interior_color": 0,
+    "is_invincible": false,
+    "is_visible": true,
+    "model_attachments": [],
+    "neon_color": [
+        255,
+        0,
+        255
+    ],
+    "neon_lights": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "pearlescent_color": 130,
+    "plate_text": "61TYH534",
+    "plate_text_index": 0,
+    "primary_color": 13,
+    "radio_station": "RADIO_14_DANCE_02",
+    "secondary_color": 13,
+    "vehicle_attachments": [],
+    "vehicle_extras": [],
+    "vehicle_model_hash": 408825843,
+    "vehicle_window_tint": -1,
+    "wheel_color": 0,
+    "wheel_type": 9
+}
